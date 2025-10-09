@@ -1,5 +1,3 @@
-"use client";
-
 import { useState, useEffect } from 'react';
 
 export default function Home() {
@@ -26,20 +24,22 @@ export default function Home() {
   }, [selectedOption, options]);
 
   return (
-    <div className="h-screen w-screen bg-black text-green-400 scanlines flicker">
-      <pre className="text-3xl mt-10">
-        :-)
-      </pre>
-      <ul className="list-none p-0 m-0 flex flex-col items-center">
-        {options.map((option, index) => (
-          <li
-            key={option}
-            className={`text-lg ${selectedOption === index ? 'text-white' : 'text-green-400'}`}
-          >
-            {option}
-          </li>
-        ))}
-      </ul>
+    <div className="h-screen w-screen bg-black text-green-400 scanlines flicker crt-effect">
+      <div className="content-container">
+        <pre className="text-5xl mt-20 glow">
+          :-)
+        </pre>
+        <ul className="list-none p-0 m-0 flex flex-col items-center">
+          {options.map((option, index) => (
+            <li
+              key={option}
+              className={`text-3xl ${selectedOption === index ? 'text-white glow' : 'text-green-400 glow'}`}
+            >
+              {option}
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>
   );
 }

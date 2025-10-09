@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 :root {
   --background: #000000;
@@ -9,13 +10,14 @@
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-mono: 'VT323', monospace;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'VT323', monospace;
+  overflow: hidden;
 }
 
 .scanlines {
@@ -49,4 +51,20 @@ body {
   100% {
     opacity: 1;
   }
+}
+
+.crt-effect {
+  transform: perspective(800px) rotateX(2deg) scale(1.02);
+  background: radial-gradient(transparent, #000 80%);
+}
+
+.glow {
+  text-shadow: 0 0 10px #00FF66;
+}
+
+.content-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
