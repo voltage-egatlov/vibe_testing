@@ -24,16 +24,16 @@ export default function Home() {
   }, [selectedOption, options]);
 
   return (
-    <div className="h-screen w-screen bg-black text-green-400 scanlines flicker crt-effect">
+    <div className="h-screen w-screen bg-black overflow-hidden scanlines flicker crt-effect">
       <div className="content-container">
-        <pre className="text-5xl mt-20 glow">
+        <pre className="text-7xl mt-20 glow">
           :-)
         </pre>
         <ul className="list-none p-0 m-0 flex flex-col items-center">
           {options.map((option, index) => (
             <li
               key={option}
-              className={`text-3xl ${selectedOption === index ? 'text-white glow' : 'text-green-400 glow'}`}
+              className={`text-5xl ${selectedOption === index ? 'text-white glow' : 'text-green-400 glow'}`}
             >
               {option}
             </li>
