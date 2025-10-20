@@ -806,7 +806,6 @@
           "y": 1
         },
         "neighbors": {
-          "right": "skills_business",
           "up": "projects",
           "down": "project_002"
         },
@@ -821,7 +820,6 @@
           "y": 2
         },
         "neighbors": {
-          "right": "skills_consulting",
           "up": "project_001",
           "down": "project_003"
         },
@@ -836,7 +834,6 @@
           "y": 3
         },
         "neighbors": {
-          "right": "skills_development",
           "up": "project_002"
         },
         "category": "projects",
@@ -863,7 +860,6 @@
           "y": 1
         },
         "neighbors": {
-          "left": "project_001",
           "up": "skills",
           "down": "skills_consulting"
         },
@@ -878,7 +874,6 @@
           "y": 2
         },
         "neighbors": {
-          "left": "project_002",
           "up": "skills_business",
           "down": "skills_development"
         },
@@ -893,7 +888,6 @@
           "y": 3
         },
         "neighbors": {
-          "left": "project_003",
           "up": "skills_consulting"
         },
         "category": "skills",

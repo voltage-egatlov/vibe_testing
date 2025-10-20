@@ -193,40 +193,50 @@ function generateTileGrid(filetreeMap) {
     currentX++;
   }
 
-  // Calculate neighbors
-  for (const tileId in tiles) {
-    const tile = tiles[tileId];
-    const { x, y } = tile.coords;
+  // Calculate neighbors based on tree structure
+  // Only connect: top-level items horizontally, and parent-child vertically
+  for (let i = 0; i < topLevelNodes.length; i++) {
+    const node = topLevelNodes[i];
+    const nodeTile = tiles[node.id];
 
-    // Find left neighbor
-    for (let checkX = x - 1; checkX >= 0; checkX--) {
-      if (grid[y][checkX]) {
-        tile.neighbors.left = grid[y][checkX];
-        break;
-      }
+    if (!nodeTile) continue;
+
+    // Connect to left/right top-level siblings
+    if (i > 0) {
+      const leftNode = topLevelNodes[i - 1];
+      nodeTile.neighbors.left = leftNode.id;
+    }
+    if (i < topLevelNodes.length - 1) {
+      const rightNode = topLevelNodes[i + 1];
+      nodeTile.neighbors.right = rightNode.id;
     }
 
-    // Find right neighbor
-    for (let checkX = x + 1; checkX <= maxX; checkX++) {
-      if (grid[y][checkX]) {
-        tile.neighbors.right = grid[y][checkX];
-        break;
-      }
-    }
+    // Connect parent to first child
+    if (node.type === 'folder' && node.children && node.children.length > 0) {
+      nodeTile.neighbors.down = node.children[0].id;
 
-    // Find up neighbor
-    for (let checkY = y - 1; checkY >= 0; checkY--) {
-      if (grid[checkY][x]) {
-        tile.neighbors.up = grid[checkY][x];
-        break;
-      }
-    }
+      // Connect children
+      for (let j = 0; j < node.children.length; j++) {
+        const child = node.children[j];
+        const childTile = tiles[child.id];
 
-    // Find down neighbor
-    for (let checkY = y + 1; checkY <= maxY; checkY++) {
-      if (grid[checkY][x]) {
-        tile.neighbors.down = grid[checkY][x];
-        break;
+        if (!childTile) continue;
+
+        // Connect child to parent
+        childTile.neighbors.up = node.id;
+
+        // Connect to sibling below
+        if (j < node.children.length - 1) {
+          childTile.neighbors.down = node.children[j + 1].id;
+        }
+
+        // Connect to sibling above
+        if (j > 0) {
+          childTile.neighbors.up = node.children[j - 1].id;
+        } else {
+          // First child connects up to parent
+          childTile.neighbors.up = node.id;
+        }
       }
     }
   }

@@ -1205,6 +1205,8 @@ body {
     overflow-x: hidden;
     padding: 2rem 1.5rem 6rem 1.5rem;
     background: #fafafa;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
   }
 
   .mobile-card {
