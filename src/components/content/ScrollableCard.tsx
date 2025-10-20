@@ -15,7 +15,14 @@ interface ScrollableCardProps {
  */
 const ScrollableCard = React.memo<ScrollableCardProps>(({ title, children }) => {
   const cardRef = useRef<HTMLDivElement>(null);
-  const { indicators, scrollTo } = useScrollIndicators(cardRef, [children]);
+  const { indicators } = useScrollIndicators(cardRef, [children]);
+
+  // Build dynamic class names for scroll shadows
+  const scrollClasses = [
+    'tile-content-scroll',
+    indicators.showTop && 'has-scroll-top',
+    indicators.showBottom && 'has-scroll-bottom'
+  ].filter(Boolean).join(' ');
 
   return (
     <div className="scrollable-card-wrapper">
@@ -24,22 +31,20 @@ const ScrollableCard = React.memo<ScrollableCardProps>(({ title, children }) => 
         {title && (
           <div className="tile-title-wrapper">
             <div className="tile-title">{title}</div>
-            <div className="tile-title-separator" />
           </div>
         )}
 
-        {/* Scrollable content area */}
-        <div className="tile-content-scroll" ref={cardRef}>
+        {/* Separator line below title */}
+        {title && <div className="tile-title-separator" />}
+
+        {/* Scrollable content area with dynamic shadow classes */}
+        <div className={scrollClasses} ref={cardRef}>
           {children}
         </div>
-      </div>
 
-      <ScrollIndicators
-        showTop={indicators.showTop}
-        showBottom={indicators.showBottom}
-        onScrollUp={() => scrollTo({ direction: 'up' })}
-        onScrollDown={() => scrollTo({ direction: 'down' })}
-      />
+        {/* Separator line below content */}
+        <div className="tile-content-separator" />
+      </div>
     </div>
   );
 });
