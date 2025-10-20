@@ -1,0 +1,27 @@
+[title]Contact Information[/title]
+
+[h2]Get In Touch[/h2]
+[p][strong]Email:[/strong] tej.chhabra03@gmail.com[/p]
+[p][strong]Alternate:[/strong] tej.chhabra@tufts.edu[/p]
+[p][strong]LinkedIn:[/strong] linkedin.com/in/tejchhabra[/p]
+[p][strong]Personal Links:[/strong] linktr.ee/7ej[/p]
+[p][strong]Music:[/strong] 7ej (Self-taught musician & audio engineer)[/p]
+
+[h2]Location & Contact[/h2]
+[p][strong]Location:[/strong] New York, New York[/p]
+[p][strong]Phone:[/strong] (617) 314-1535[/p]
+
+[h2]Current Status[/h2]
+[p]Associate Consultant @ Mars & Co.[/p]
+[p][strong]Availability:[/strong] Open to opportunities[/p]
+
+[h2]Reach Out For[/h2]
+[list]
+[item]Consulting opportunities[/item]
+[item]Collaboration on engineering/economics projects[/item]
+[item]Speaking engagements[/item]
+[item]Music collaboration[/item]
+[item]Community building initiatives[/item]
+[/list]
+
+[p][strong]Response Time:[/strong] Usually within 24 hours[/p]

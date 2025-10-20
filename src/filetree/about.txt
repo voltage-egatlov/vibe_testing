@@ -1,0 +1,31 @@
+[title]About Me[/title]
+
+[p][strong]Name:[/strong] Tej S. Chhabra[/p]
+[p][strong]Title:[/strong] Associate Consultant @ Mars & Co.[/p]
+[p][strong]Location:[/strong] New York, New York, United States[/p]
+
+[h2]Summary[/h2]
+[p]Passionate about integrating product engineering, data sciences, and econometrics to drive business strategy and direction. Combining Human Factors Engineering and Economics education from Tufts University to solve problems through creativity, innovation, and data.[/p]
+
+[h2]Education[/h2]
+[list]
+[item]BS Human Factors Engineering; BA Economics[/item]
+[item]Tufts University (2021-2025)[/item]
+[item]GPA: 3.79 | SAT Math: 800[/item]
+[item]Dean's List all semesters[/item]
+[/list]
+
+[h2]Leadership[/h2]
+[list]
+[item]President of the Tufts Gaming Hub (1000+ Members)[/item]
+[item]Director of Cheap Sox Improv[/item]
+[item]Tufts Climbing Team Member[/item]
+[/list]
+
+[h2]Interests[/h2]
+[list]
+[item]Self-taught musician and audio engineer[/item]
+[item]Recording and distributing music under the name 7ej[/item]
+[item]Gaming and community building[/item]
+[item]Improv comedy and public speaking[/item]
+[/list]

@@ -1,0 +1,972 @@
+{
+  "filetreeMap": {
+    "nodes": {
+      "about": {
+        "type": "file",
+        "name": "about.txt",
+        "path": "about.txt",
+        "id": "about",
+        "label": "About",
+        "content": "[title]About Me[/title]\n\n[p][strong]Name:[/strong] Tej S. Chhabra[/p]\n[p][strong]Title:[/strong] Associate Consultant @ Mars & Co.[/p]\n[p][strong]Location:[/strong] New York, New York, United States[/p]\n\n[h2]Summary[/h2]\n[p]Passionate about integrating product engineering, data sciences, and econometrics to drive business strategy and direction. Combining Human Factors Engineering and Economics education from Tufts University to solve problems through creativity, innovation, and data.[/p]\n\n[h2]Education[/h2]\n[list]\n[item]BS Human Factors Engineering; BA Economics[/item]\n[item]Tufts University (2021-2025)[/item]\n[item]GPA: 3.79 | SAT Math: 800[/item]\n[item]Dean's List all semesters[/item]\n[/list]\n\n[h2]Leadership[/h2]\n[list]\n[item]President of the Tufts Gaming Hub (1000+ Members)[/item]\n[item]Director of Cheap Sox Improv[/item]\n[item]Tufts Climbing Team Member[/item]\n[/list]\n\n[h2]Interests[/h2]\n[list]\n[item]Self-taught musician and audio engineer[/item]\n[item]Recording and distributing music under the name 7ej[/item]\n[item]Gaming and community building[/item]\n[item]Improv comedy and public speaking[/item]\n[/list]\n",
+        "metadata": {},
+        "icon": "FileText"
+      },
+      "contact": {
+        "type": "file",
+        "name": "contact.txt",
+        "path": "contact.txt",
+        "id": "contact",
+        "label": "Contact",
+        "content": "[title]Contact Information[/title]\n\n[h2]Get In Touch[/h2]\n[p][strong]Email:[/strong] tej.chhabra03@gmail.com[/p]\n[p][strong]Alternate:[/strong] tej.chhabra@tufts.edu[/p]\n[p][strong]LinkedIn:[/strong] linkedin.com/in/tejchhabra[/p]\n[p][strong]Personal Links:[/strong] linktr.ee/7ej[/p]\n[p][strong]Music:[/strong] 7ej (Self-taught musician & audio engineer)[/p]\n\n[h2]Location & Contact[/h2]\n[p][strong]Location:[/strong] New York, New York[/p]\n[p][strong]Phone:[/strong] (617) 314-1535[/p]\n\n[h2]Current Status[/h2]\n[p]Associate Consultant @ Mars & Co.[/p]\n[p][strong]Availability:[/strong] Open to opportunities[/p]\n\n[h2]Reach Out For[/h2]\n[list]\n[item]Consulting opportunities[/item]\n[item]Collaboration on engineering/economics projects[/item]\n[item]Speaking engagements[/item]\n[item]Music collaboration[/item]\n[item]Community building initiatives[/item]\n[/list]\n\n[p][strong]Response Time:[/strong] Usually within 24 hours[/p]\n",
+        "metadata": {},
+        "icon": "FileText"
+      },
+      "education": {
+        "type": "file",
+        "name": "education.txt",
+        "path": "education.txt",
+        "id": "education",
+        "label": "Education",
+        "content": "[title]Education[/title]\n\n[h2]Tufts University[/h2]\n[p][strong]Location:[/strong] Medford, MA | [strong]Years:[/strong] 2021 - 2025[/p]\n\n[p][strong]Degrees:[/strong][/p]\n[list]\n[item]BS Human Factors Engineering[/item]\n[item]BA Economics[/item]\n[/list]\n\n[p][strong]Academic Achievement:[/strong][/p]\n[list]\n[item]GPA: 3.79 / 4.0[/item]\n[item]Dean's List: All semesters[/item]\n[item]SAT: Math 800 | English 720[/item]\n[/list]\n\n[p][strong]Campus Leadership:[/strong][/p]\n[list]\n[item]President, Tufts Gaming Hub (~1000 Members)[/item]\n[item]Director, Cheap Sox Improv[/item]\n[item]Member, Tufts Climbing Team[/item]\n[/list]\n\n[h2]Lexington High School[/h2]\n[p][strong]Location:[/strong] Lexington, MA | [strong]Years:[/strong] 2017 - 2021[/p]\n[p]Ranked Top 50 Public High Schools in US[/p]\n\n[p][strong]Leadership Positions:[/strong][/p]\n[list]\n[item]President, Model United Nations Club[/item]\n[item]President, Digital Imaging and Design Club[/item]\n[item]President, Magic Club[/item]\n[/list]\n\n[p][strong]Community Service:[/strong][/p]\n[list]\n[item]Head of Library Leadership Council - Cary Memorial Library (2014-2021)[/item]\n[item]Elected leader of teen volunteer group[/item]\n[item]Responsible for planning, marketing, and executing community events[/item]\n[/list]\n",
+        "metadata": {},
+        "icon": "FileText"
+      },
+      "experience": {
+        "type": "file",
+        "name": "experience.txt",
+        "path": "experience.txt",
+        "id": "experience",
+        "label": "Experience",
+        "content": "[title]Work Experience[/title]\n\n[h2]Associate Consultant[/h2]\n[p][strong]Company:[/strong] Mars & Co. | [strong]Location:[/strong] New York, NY[/p]\n[p][strong]Duration:[/strong] September 2025 - Present[/p]\n[list]\n[item]Strategy consulting at premier firm[/item]\n[item]Working with Fortune 500 clients[/item]\n[/list]\n\n[h2]Director of Operations[/h2]\n[p][strong]Company:[/strong] JAV | [strong]Location:[/strong] Tampa, FL (Advisory Capacity)[/p]\n[p][strong]Duration:[/strong] January 2025 - Present[/p]\n[list]\n[item]Strategic advisory role[/item]\n[item]Operations management and optimization[/item]\n[/list]\n\n[h2]Teaching Assistant[/h2]\n[p][strong]Institution:[/strong] Tufts University | [strong]Location:[/strong] Somerville, MA[/p]\n[p][strong]Duration:[/strong] September 2024 - January 2025[/p]\n[p][strong]Course:[/strong] EN1 Intro to Engineering - Application of Self Driving Cars[/p]\n[list]\n[item]Enhanced curriculum for 31 students[/item]\n[item]Graded multiple weekly assignments[/item]\n[item]Brought new ideas to improve student learning[/item]\n[/list]\n\n[h2]Transformation Office Intern[/h2]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2024 - September 2024[/p]\n[list]\n[item]Program Management: Organized core team of senior management across all Dynatrace organizations[/item]\n[item]Executive Communications: Ran enablement for accounts generating 100M+ annually[/item]\n[item]Team Coordination: Coordinated hands-on demos between ~45 internal team members and vendors[/item]\n[/list]\n\n[h2]Sales Operations Intern[/h2]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2023 - June 2024[/p]\n[list]\n[item]Trend Analysis: Identified Salesforce issues by analyzing data and conferring with sales reps[/item]\n[item]Cross-functional Workflows: Developed top-of-funnel skills and competitive playbook with marketing[/item]\n[item]Problem Solving: Created Excel tracker for manual data verification with metric-driven insights[/item]\n[/list]\n\n[h2]Co-Founder[/h2]\n[p][strong]Company:[/strong] Consulting Freelancing - Design-to-Value Agency[/p]\n[p][strong]Duration:[/strong] May 2023 - June 2023[/p]\n[list]\n[item]Created product breakdown for AlixPartners team[/item]\n[item]Identified key cost saving opportunities for contract negotiations with manufacturers[/item]\n[item]Gave retailers leverage in vendor relationships[/item]\n[/list]\n\n[h2]Digital Product Developer Intern[/h2]\n[p][strong]Company:[/strong] Evolv Technology (NYSE: EVLV) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2022 - August 2022[/p]\n[list]\n[item]Technical Programming: Designed and implemented 40+ feature additions to production line[/item]\n[item]Product Development: Personally responsible for major feature in new release[/item]\n[item]Problem Solving: Debugged and repaired testing pipeline enabling safe code deployment[/item]\n[item]Executive Communication: Presented work outputs to founder and CEO[/item]\n[/list]\n",
+        "metadata": {},
+        "icon": "FileText"
+      },
+      "projects": {
+        "type": "folder",
+        "name": "projects",
+        "path": "projects",
+        "id": "projects",
+        "label": "Projects",
+        "children": [
+          {
+            "type": "file",
+            "name": "project_001.txt",
+            "path": "projects/project_001.txt",
+            "id": "project_001",
+            "label": "Dynatrace Executive Sponsor Program",
+            "content": "---metadata---\ntitle: Dynatrace Executive Sponsor Program\nimage: /projects/dynatrace.png\n---end---\n\n[title]Dynatrace Executive Sponsor Program[/title]\n\n[p][strong]Role:[/strong] Transformation Office Intern[/p]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT)[/p]\n[p][strong]Duration:[/strong] June 2024 - September 2024[/p]\n\n[h2]Description[/h2]\n[p]Led enablement initiative for high-value accounts generating 100M+ in annual revenue to drive customer retention through executive sponsorship.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Program Management: Organized core team of senior management across all Dynatrace organizations[/item]\n[item]Executive Communications: Developed and delivered enablement materials for C-suite engagement[/item]\n[item]Stakeholder Coordination: Managed relationships between ~45 internal team members and vendors[/item]\n[item]Performance Tracking: Monitored program metrics and customer retention indicators[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]Salesforce CRM[/item]\n[item]Excel (Advanced Analytics)[/item]\n[item]PowerPoint (Executive Presentations)[/item]\n[item]Atlassian Suite (Project Management)[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]Managed accounts worth 100M+ annually[/item]\n[item]Coordinated cross-organizational teams[/item]\n[item]Improved executive-level customer engagement[/item]\n[item]Enhanced customer retention strategy[/item]\n[/list]\n\n[img]/projects/dynatrace.png[/img]\n",
+            "metadata": {
+              "title": "Dynatrace Executive Sponsor Program",
+              "image": "/projects/dynatrace.png"
+            },
+            "parent": "projects",
+            "icon": "FileText"
+          },
+          {
+            "type": "file",
+            "name": "project_002.txt",
+            "path": "projects/project_002.txt",
+            "id": "project_002",
+            "label": "Evolv Digital Product Development",
+            "content": "---metadata---\ntitle: Evolv Digital Product Development\nimage: /projects/evolv.png\n---end---\n\n[title]Evolv Digital Product Development[/title]\n\n[p][strong]Role:[/strong] Digital Product Developer Intern[/p]\n[p][strong]Company:[/strong] Evolv Technology (NYSE: EVLV)[/p]\n[p][strong]Duration:[/strong] June 2022 - August 2022[/p]\n\n[h2]Description[/h2]\n[p]Contributed to new version release of Evolv's core digital product targeting greater penetration across multiple client archetypes in the weapons detection industry.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Feature Development: Designed, programmed, and implemented 40+ feature additions to production[/item]\n[item]Major Feature Owner: Personally responsible for significant feature in the new release[/item]\n[item]Quality Assurance: Debugged and repaired testing pipeline for 7-member web team[/item]\n[item]Executive Presentations: Presented work outputs to company founder and CEO[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]JavaScript/TypeScript[/item]\n[item]HTML/CSS[/item]\n[item]Git Version Control[/item]\n[item]Testing Frameworks[/item]\n[item]CI/CD Pipeline Tools[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]40+ features shipped to production[/item]\n[item]Major feature ownership in new release[/item]\n[item]Enabled safe code deployment for entire team[/item]\n[item]Direct CEO-level communication and reporting[/item]\n[/list]\n\n[img]/projects/evolv.png[/img]\n",
+            "metadata": {
+              "title": "Evolv Digital Product Development",
+              "image": "/projects/evolv.png"
+            },
+            "parent": "projects",
+            "icon": "FileText"
+          },
+          {
+            "type": "file",
+            "name": "project_003.txt",
+            "path": "projects/project_003.txt",
+            "id": "project_003",
+            "label": "Tufts Gaming Hub Leadership",
+            "content": "---metadata---\ntitle: Tufts Gaming Hub Leadership\nimage: /projects/gaming-hub.png\n---end---\n\n[title]Tufts Gaming Hub Leadership[/title]\n\n[p][strong]Role:[/strong] President & Founder[/p]\n[p][strong]Organization:[/strong] Tufts Gaming Hub[/p]\n[p][strong]Duration:[/strong] 2022 - Present[/p]\n[p][strong]Community Size:[/strong] 1000+ Members[/p]\n\n[h2]Description[/h2]\n[p]Built and led one of Tufts University's largest student organizations, creating an inclusive gaming community focused on engagement, events, and community guidelines enforcement.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Community Management: Grew organization to 1000+ active members across multiple platforms[/item]\n[item]Social Media Strategy: Drove engagement through content creation and event marketing[/item]\n[item]Event Planning: Organized regular gaming events, tournaments, and social gatherings[/item]\n[item]Conflict Resolution: Handled community guideline infractions and maintained positive culture[/item]\n[item]Ethics & Standards: Established and enforced strong code of ethics for all members[/item]\n[/list]\n\n[h2]Skills Developed[/h2]\n[list]\n[item]Large-scale community leadership (1000+ people)[/item]\n[item]Social media marketing and engagement[/item]\n[item]Event planning and execution[/item]\n[item]Conflict resolution and mediation[/item]\n[item]Policy development and enforcement[/item]\n[item]Budget management[/item]\n[item]Stakeholder communication[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]1000+ member community built from scratch[/item]\n[item]Regular high-engagement events[/item]\n[item]Strong ethical culture and guidelines[/item]\n[item]Positive reputation across campus[/item]\n[item]Sustainable leadership transition model[/item]\n[/list]\n\n[img]/projects/gaming-hub.png[/img]\n",
+            "metadata": {
+              "title": "Tufts Gaming Hub Leadership",
+              "image": "/projects/gaming-hub.png"
+            },
+            "parent": "projects",
+            "icon": "FileText"
+          }
+        ],
+        "icon": "Folder",
+        "content": "[title]Projects[/title]\n\n[p]Select a project to view details:[/p]\n\n[h2]1. Dynatrace Executive Sponsor Program[/h2]\n[p]Transformation Office Intern | June 2024 - September 2024[/p]\n\n[h2]2. Evolv Digital Product Development[/h2]\n[p]Digital Product Developer Intern | June 2022 - August 2022[/p]\n\n[h2]3. Tufts Gaming Hub Leadership[/h2]\n[p]President & Founder | 2022 - Present | 1000+ Members[/p]\n\n[p]Navigate using arrow keys or the navigation menu to explore each project in detail.[/p]\n",
+        "metadata": {}
+      },
+      "project_001": {
+        "type": "file",
+        "name": "project_001.txt",
+        "path": "projects/project_001.txt",
+        "id": "project_001",
+        "label": "Dynatrace Executive Sponsor Program",
+        "content": "---metadata---\ntitle: Dynatrace Executive Sponsor Program\nimage: /projects/dynatrace.png\n---end---\n\n[title]Dynatrace Executive Sponsor Program[/title]\n\n[p][strong]Role:[/strong] Transformation Office Intern[/p]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT)[/p]\n[p][strong]Duration:[/strong] June 2024 - September 2024[/p]\n\n[h2]Description[/h2]\n[p]Led enablement initiative for high-value accounts generating 100M+ in annual revenue to drive customer retention through executive sponsorship.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Program Management: Organized core team of senior management across all Dynatrace organizations[/item]\n[item]Executive Communications: Developed and delivered enablement materials for C-suite engagement[/item]\n[item]Stakeholder Coordination: Managed relationships between ~45 internal team members and vendors[/item]\n[item]Performance Tracking: Monitored program metrics and customer retention indicators[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]Salesforce CRM[/item]\n[item]Excel (Advanced Analytics)[/item]\n[item]PowerPoint (Executive Presentations)[/item]\n[item]Atlassian Suite (Project Management)[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]Managed accounts worth 100M+ annually[/item]\n[item]Coordinated cross-organizational teams[/item]\n[item]Improved executive-level customer engagement[/item]\n[item]Enhanced customer retention strategy[/item]\n[/list]\n\n[img]/projects/dynatrace.png[/img]\n",
+        "metadata": {
+          "title": "Dynatrace Executive Sponsor Program",
+          "image": "/projects/dynatrace.png"
+        },
+        "parent": "projects",
+        "icon": "FileText"
+      },
+      "project_002": {
+        "type": "file",
+        "name": "project_002.txt",
+        "path": "projects/project_002.txt",
+        "id": "project_002",
+        "label": "Evolv Digital Product Development",
+        "content": "---metadata---\ntitle: Evolv Digital Product Development\nimage: /projects/evolv.png\n---end---\n\n[title]Evolv Digital Product Development[/title]\n\n[p][strong]Role:[/strong] Digital Product Developer Intern[/p]\n[p][strong]Company:[/strong] Evolv Technology (NYSE: EVLV)[/p]\n[p][strong]Duration:[/strong] June 2022 - August 2022[/p]\n\n[h2]Description[/h2]\n[p]Contributed to new version release of Evolv's core digital product targeting greater penetration across multiple client archetypes in the weapons detection industry.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Feature Development: Designed, programmed, and implemented 40+ feature additions to production[/item]\n[item]Major Feature Owner: Personally responsible for significant feature in the new release[/item]\n[item]Quality Assurance: Debugged and repaired testing pipeline for 7-member web team[/item]\n[item]Executive Presentations: Presented work outputs to company founder and CEO[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]JavaScript/TypeScript[/item]\n[item]HTML/CSS[/item]\n[item]Git Version Control[/item]\n[item]Testing Frameworks[/item]\n[item]CI/CD Pipeline Tools[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]40+ features shipped to production[/item]\n[item]Major feature ownership in new release[/item]\n[item]Enabled safe code deployment for entire team[/item]\n[item]Direct CEO-level communication and reporting[/item]\n[/list]\n\n[img]/projects/evolv.png[/img]\n",
+        "metadata": {
+          "title": "Evolv Digital Product Development",
+          "image": "/projects/evolv.png"
+        },
+        "parent": "projects",
+        "icon": "FileText"
+      },
+      "project_003": {
+        "type": "file",
+        "name": "project_003.txt",
+        "path": "projects/project_003.txt",
+        "id": "project_003",
+        "label": "Tufts Gaming Hub Leadership",
+        "content": "---metadata---\ntitle: Tufts Gaming Hub Leadership\nimage: /projects/gaming-hub.png\n---end---\n\n[title]Tufts Gaming Hub Leadership[/title]\n\n[p][strong]Role:[/strong] President & Founder[/p]\n[p][strong]Organization:[/strong] Tufts Gaming Hub[/p]\n[p][strong]Duration:[/strong] 2022 - Present[/p]\n[p][strong]Community Size:[/strong] 1000+ Members[/p]\n\n[h2]Description[/h2]\n[p]Built and led one of Tufts University's largest student organizations, creating an inclusive gaming community focused on engagement, events, and community guidelines enforcement.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Community Management: Grew organization to 1000+ active members across multiple platforms[/item]\n[item]Social Media Strategy: Drove engagement through content creation and event marketing[/item]\n[item]Event Planning: Organized regular gaming events, tournaments, and social gatherings[/item]\n[item]Conflict Resolution: Handled community guideline infractions and maintained positive culture[/item]\n[item]Ethics & Standards: Established and enforced strong code of ethics for all members[/item]\n[/list]\n\n[h2]Skills Developed[/h2]\n[list]\n[item]Large-scale community leadership (1000+ people)[/item]\n[item]Social media marketing and engagement[/item]\n[item]Event planning and execution[/item]\n[item]Conflict resolution and mediation[/item]\n[item]Policy development and enforcement[/item]\n[item]Budget management[/item]\n[item]Stakeholder communication[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]1000+ member community built from scratch[/item]\n[item]Regular high-engagement events[/item]\n[item]Strong ethical culture and guidelines[/item]\n[item]Positive reputation across campus[/item]\n[item]Sustainable leadership transition model[/item]\n[/list]\n\n[img]/projects/gaming-hub.png[/img]\n",
+        "metadata": {
+          "title": "Tufts Gaming Hub Leadership",
+          "image": "/projects/gaming-hub.png"
+        },
+        "parent": "projects",
+        "icon": "FileText"
+      },
+      "skills": {
+        "type": "folder",
+        "name": "skills",
+        "path": "skills",
+        "id": "skills",
+        "label": "Skills",
+        "children": [
+          {
+            "type": "file",
+            "name": "skills_business.txt",
+            "path": "skills/skills_business.txt",
+            "id": "skills_business",
+            "label": "Skills Business",
+            "content": "[title]Business Skills[/title]\n\n[h2]Business & Data Tools[/h2]\n[list]\n[item]Salesforce CRM (Advanced - 90%)[/item]\n[item]Excel - Advanced Analytics (Expert - 95%)[/item]\n[item]Atlassian Suite (Advanced - 85%)[/item]\n[item]PowerPoint - Executive Presentations (Advanced - 90%)[/item]\n[item]Word (Advanced - 90%)[/item]\n[/list]\n\n[h2]Soft Skills[/h2]\n[list]\n[item]Executive Communication (Expert - 95%)[/item]\n[item]Large Team Coordination (Advanced - 90%)[/item]\n[item]Public Speaking (Expert - 95%)[/item]\n[item]Leadership (Expert - 95%)[/item]\n[item]Problem Solving (Expert - 95%)[/item]\n[/list]\n\n[h2]Languages[/h2]\n[list]\n[item]English - Native (100%)[/item]\n[item]Italian - Proficient (90%)[/item]\n[item]Hindi - Basic (60%)[/item]\n[item]Mandarin - Elementary (40%)[/item]\n[/list]\n",
+            "metadata": {},
+            "parent": "skills",
+            "icon": "FileText"
+          },
+          {
+            "type": "file",
+            "name": "skills_consulting.txt",
+            "path": "skills/skills_consulting.txt",
+            "id": "skills_consulting",
+            "label": "Skills Consulting",
+            "content": "[title]Consulting Skills[/title]\n\n[h2]Executive Communication[/h2]\n[p]Expert at developing and delivering enablement materials for C-suite engagement. Experienced presenting to company founders and CEOs.[/p]\n\n[h2]Program Management[/h2]\n[p]Led cross-organizational initiatives at Dynatrace managing senior management teams and coordinating ~45 team members and vendors.[/p]\n\n[h2]Stakeholder Coordination[/h2]\n[p]Managed relationships for high-value accounts generating 100M+ annually. Strong track record in customer retention strategy.[/p]\n\n[h2]Leadership Experience[/h2]\n[list]\n[item]President of 1000+ member organization[/item]\n[item]Coordinated teams across multiple departments[/item]\n[item]Managed executive-level communications[/item]\n[item]Led transformation office initiatives[/item]\n[/list]\n",
+            "metadata": {},
+            "parent": "skills",
+            "icon": "FileText"
+          },
+          {
+            "type": "file",
+            "name": "skills_development.txt",
+            "path": "skills/skills_development.txt",
+            "id": "skills_development",
+            "label": "Skills Development",
+            "content": "[title]Development Skills[/title]\n\n[h2]Programming Languages[/h2]\n[list]\n[item]JavaScript/TypeScript (Expert - 95%)[/item]\n[item]Python (Advanced - 90%)[/item]\n[item]R (Advanced - 85%)[/item]\n[item]STATA (Advanced - 85%)[/item]\n[item]C++ (Intermediate - 75%)[/item]\n[item]C / C# (Intermediate - 70%)[/item]\n[item]Java (Intermediate - 70%)[/item]\n[/list]\n\n[h2]Web Technologies[/h2]\n[list]\n[item]React.js (Expert - 95%)[/item]\n[item]Next.js (Advanced - 90%)[/item]\n[item]Tailwind CSS (Expert - 95%)[/item]\n[item]HTML/CSS (Expert - 95%)[/item]\n[item]Git (Advanced - 90%)[/item]\n[/list]\n\n[h2]Experience Highlights[/h2]\n[list]\n[item]Shipped 40+ features to production at Evolv[/item]\n[item]Personally responsible for major feature in release[/item]\n[item]Debugged and repaired testing pipeline for team[/item]\n[item]CI/CD pipeline expertise[/item]\n[/list]\n",
+            "metadata": {},
+            "parent": "skills",
+            "icon": "FileText"
+          }
+        ],
+        "icon": "Folder",
+        "content": "[title]Technical Skills[/title]\n\n[p]Explore skills by category:[/p]\n\n[h2]Consulting Skills[/h2]\n[p]Executive communication, stakeholder management, program leadership[/p]\n\n[h2]Development Skills[/h2]\n[p]JavaScript/TypeScript, React, Python, Full-stack development[/p]\n\n[h2]Business Skills[/h2]\n[p]Salesforce, Excel (Advanced), Data analysis, Project management[/p]\n\n[p]Navigate using arrow keys or the navigation menu to explore each category in detail.[/p]\n",
+        "metadata": {}
+      },
+      "skills_business": {
+        "type": "file",
+        "name": "skills_business.txt",
+        "path": "skills/skills_business.txt",
+        "id": "skills_business",
+        "label": "Skills Business",
+        "content": "[title]Business Skills[/title]\n\n[h2]Business & Data Tools[/h2]\n[list]\n[item]Salesforce CRM (Advanced - 90%)[/item]\n[item]Excel - Advanced Analytics (Expert - 95%)[/item]\n[item]Atlassian Suite (Advanced - 85%)[/item]\n[item]PowerPoint - Executive Presentations (Advanced - 90%)[/item]\n[item]Word (Advanced - 90%)[/item]\n[/list]\n\n[h2]Soft Skills[/h2]\n[list]\n[item]Executive Communication (Expert - 95%)[/item]\n[item]Large Team Coordination (Advanced - 90%)[/item]\n[item]Public Speaking (Expert - 95%)[/item]\n[item]Leadership (Expert - 95%)[/item]\n[item]Problem Solving (Expert - 95%)[/item]\n[/list]\n\n[h2]Languages[/h2]\n[list]\n[item]English - Native (100%)[/item]\n[item]Italian - Proficient (90%)[/item]\n[item]Hindi - Basic (60%)[/item]\n[item]Mandarin - Elementary (40%)[/item]\n[/list]\n",
+        "metadata": {},
+        "parent": "skills",
+        "icon": "FileText"
+      },
+      "skills_consulting": {
+        "type": "file",
+        "name": "skills_consulting.txt",
+        "path": "skills/skills_consulting.txt",
+        "id": "skills_consulting",
+        "label": "Skills Consulting",
+        "content": "[title]Consulting Skills[/title]\n\n[h2]Executive Communication[/h2]\n[p]Expert at developing and delivering enablement materials for C-suite engagement. Experienced presenting to company founders and CEOs.[/p]\n\n[h2]Program Management[/h2]\n[p]Led cross-organizational initiatives at Dynatrace managing senior management teams and coordinating ~45 team members and vendors.[/p]\n\n[h2]Stakeholder Coordination[/h2]\n[p]Managed relationships for high-value accounts generating 100M+ annually. Strong track record in customer retention strategy.[/p]\n\n[h2]Leadership Experience[/h2]\n[list]\n[item]President of 1000+ member organization[/item]\n[item]Coordinated teams across multiple departments[/item]\n[item]Managed executive-level communications[/item]\n[item]Led transformation office initiatives[/item]\n[/list]\n",
+        "metadata": {},
+        "parent": "skills",
+        "icon": "FileText"
+      },
+      "skills_development": {
+        "type": "file",
+        "name": "skills_development.txt",
+        "path": "skills/skills_development.txt",
+        "id": "skills_development",
+        "label": "Skills Development",
+        "content": "[title]Development Skills[/title]\n\n[h2]Programming Languages[/h2]\n[list]\n[item]JavaScript/TypeScript (Expert - 95%)[/item]\n[item]Python (Advanced - 90%)[/item]\n[item]R (Advanced - 85%)[/item]\n[item]STATA (Advanced - 85%)[/item]\n[item]C++ (Intermediate - 75%)[/item]\n[item]C / C# (Intermediate - 70%)[/item]\n[item]Java (Intermediate - 70%)[/item]\n[/list]\n\n[h2]Web Technologies[/h2]\n[list]\n[item]React.js (Expert - 95%)[/item]\n[item]Next.js (Advanced - 90%)[/item]\n[item]Tailwind CSS (Expert - 95%)[/item]\n[item]HTML/CSS (Expert - 95%)[/item]\n[item]Git (Advanced - 90%)[/item]\n[/list]\n\n[h2]Experience Highlights[/h2]\n[list]\n[item]Shipped 40+ features to production at Evolv[/item]\n[item]Personally responsible for major feature in release[/item]\n[item]Debugged and repaired testing pipeline for team[/item]\n[item]CI/CD pipeline expertise[/item]\n[/list]\n",
+        "metadata": {},
+        "parent": "skills",
+        "icon": "FileText"
+      }
+    },
+    "root": {
+      "type": "folder",
+      "name": "root",
+      "path": "",
+      "id": "root",
+      "label": "Root",
+      "children": [
+        {
+          "type": "file",
+          "name": "about.txt",
+          "path": "about.txt",
+          "id": "about",
+          "label": "About",
+          "content": "[title]About Me[/title]\n\n[p][strong]Name:[/strong] Tej S. Chhabra[/p]\n[p][strong]Title:[/strong] Associate Consultant @ Mars & Co.[/p]\n[p][strong]Location:[/strong] New York, New York, United States[/p]\n\n[h2]Summary[/h2]\n[p]Passionate about integrating product engineering, data sciences, and econometrics to drive business strategy and direction. Combining Human Factors Engineering and Economics education from Tufts University to solve problems through creativity, innovation, and data.[/p]\n\n[h2]Education[/h2]\n[list]\n[item]BS Human Factors Engineering; BA Economics[/item]\n[item]Tufts University (2021-2025)[/item]\n[item]GPA: 3.79 | SAT Math: 800[/item]\n[item]Dean's List all semesters[/item]\n[/list]\n\n[h2]Leadership[/h2]\n[list]\n[item]President of the Tufts Gaming Hub (1000+ Members)[/item]\n[item]Director of Cheap Sox Improv[/item]\n[item]Tufts Climbing Team Member[/item]\n[/list]\n\n[h2]Interests[/h2]\n[list]\n[item]Self-taught musician and audio engineer[/item]\n[item]Recording and distributing music under the name 7ej[/item]\n[item]Gaming and community building[/item]\n[item]Improv comedy and public speaking[/item]\n[/list]\n",
+          "metadata": {},
+          "icon": "FileText"
+        },
+        {
+          "type": "file",
+          "name": "contact.txt",
+          "path": "contact.txt",
+          "id": "contact",
+          "label": "Contact",
+          "content": "[title]Contact Information[/title]\n\n[h2]Get In Touch[/h2]\n[p][strong]Email:[/strong] tej.chhabra03@gmail.com[/p]\n[p][strong]Alternate:[/strong] tej.chhabra@tufts.edu[/p]\n[p][strong]LinkedIn:[/strong] linkedin.com/in/tejchhabra[/p]\n[p][strong]Personal Links:[/strong] linktr.ee/7ej[/p]\n[p][strong]Music:[/strong] 7ej (Self-taught musician & audio engineer)[/p]\n\n[h2]Location & Contact[/h2]\n[p][strong]Location:[/strong] New York, New York[/p]\n[p][strong]Phone:[/strong] (617) 314-1535[/p]\n\n[h2]Current Status[/h2]\n[p]Associate Consultant @ Mars & Co.[/p]\n[p][strong]Availability:[/strong] Open to opportunities[/p]\n\n[h2]Reach Out For[/h2]\n[list]\n[item]Consulting opportunities[/item]\n[item]Collaboration on engineering/economics projects[/item]\n[item]Speaking engagements[/item]\n[item]Music collaboration[/item]\n[item]Community building initiatives[/item]\n[/list]\n\n[p][strong]Response Time:[/strong] Usually within 24 hours[/p]\n",
+          "metadata": {},
+          "icon": "FileText"
+        },
+        {
+          "type": "file",
+          "name": "education.txt",
+          "path": "education.txt",
+          "id": "education",
+          "label": "Education",
+          "content": "[title]Education[/title]\n\n[h2]Tufts University[/h2]\n[p][strong]Location:[/strong] Medford, MA | [strong]Years:[/strong] 2021 - 2025[/p]\n\n[p][strong]Degrees:[/strong][/p]\n[list]\n[item]BS Human Factors Engineering[/item]\n[item]BA Economics[/item]\n[/list]\n\n[p][strong]Academic Achievement:[/strong][/p]\n[list]\n[item]GPA: 3.79 / 4.0[/item]\n[item]Dean's List: All semesters[/item]\n[item]SAT: Math 800 | English 720[/item]\n[/list]\n\n[p][strong]Campus Leadership:[/strong][/p]\n[list]\n[item]President, Tufts Gaming Hub (~1000 Members)[/item]\n[item]Director, Cheap Sox Improv[/item]\n[item]Member, Tufts Climbing Team[/item]\n[/list]\n\n[h2]Lexington High School[/h2]\n[p][strong]Location:[/strong] Lexington, MA | [strong]Years:[/strong] 2017 - 2021[/p]\n[p]Ranked Top 50 Public High Schools in US[/p]\n\n[p][strong]Leadership Positions:[/strong][/p]\n[list]\n[item]President, Model United Nations Club[/item]\n[item]President, Digital Imaging and Design Club[/item]\n[item]President, Magic Club[/item]\n[/list]\n\n[p][strong]Community Service:[/strong][/p]\n[list]\n[item]Head of Library Leadership Council - Cary Memorial Library (2014-2021)[/item]\n[item]Elected leader of teen volunteer group[/item]\n[item]Responsible for planning, marketing, and executing community events[/item]\n[/list]\n",
+          "metadata": {},
+          "icon": "FileText"
+        },
+        {
+          "type": "file",
+          "name": "experience.txt",
+          "path": "experience.txt",
+          "id": "experience",
+          "label": "Experience",
+          "content": "[title]Work Experience[/title]\n\n[h2]Associate Consultant[/h2]\n[p][strong]Company:[/strong] Mars & Co. | [strong]Location:[/strong] New York, NY[/p]\n[p][strong]Duration:[/strong] September 2025 - Present[/p]\n[list]\n[item]Strategy consulting at premier firm[/item]\n[item]Working with Fortune 500 clients[/item]\n[/list]\n\n[h2]Director of Operations[/h2]\n[p][strong]Company:[/strong] JAV | [strong]Location:[/strong] Tampa, FL (Advisory Capacity)[/p]\n[p][strong]Duration:[/strong] January 2025 - Present[/p]\n[list]\n[item]Strategic advisory role[/item]\n[item]Operations management and optimization[/item]\n[/list]\n\n[h2]Teaching Assistant[/h2]\n[p][strong]Institution:[/strong] Tufts University | [strong]Location:[/strong] Somerville, MA[/p]\n[p][strong]Duration:[/strong] September 2024 - January 2025[/p]\n[p][strong]Course:[/strong] EN1 Intro to Engineering - Application of Self Driving Cars[/p]\n[list]\n[item]Enhanced curriculum for 31 students[/item]\n[item]Graded multiple weekly assignments[/item]\n[item]Brought new ideas to improve student learning[/item]\n[/list]\n\n[h2]Transformation Office Intern[/h2]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2024 - September 2024[/p]\n[list]\n[item]Program Management: Organized core team of senior management across all Dynatrace organizations[/item]\n[item]Executive Communications: Ran enablement for accounts generating 100M+ annually[/item]\n[item]Team Coordination: Coordinated hands-on demos between ~45 internal team members and vendors[/item]\n[/list]\n\n[h2]Sales Operations Intern[/h2]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2023 - June 2024[/p]\n[list]\n[item]Trend Analysis: Identified Salesforce issues by analyzing data and conferring with sales reps[/item]\n[item]Cross-functional Workflows: Developed top-of-funnel skills and competitive playbook with marketing[/item]\n[item]Problem Solving: Created Excel tracker for manual data verification with metric-driven insights[/item]\n[/list]\n\n[h2]Co-Founder[/h2]\n[p][strong]Company:[/strong] Consulting Freelancing - Design-to-Value Agency[/p]\n[p][strong]Duration:[/strong] May 2023 - June 2023[/p]\n[list]\n[item]Created product breakdown for AlixPartners team[/item]\n[item]Identified key cost saving opportunities for contract negotiations with manufacturers[/item]\n[item]Gave retailers leverage in vendor relationships[/item]\n[/list]\n\n[h2]Digital Product Developer Intern[/h2]\n[p][strong]Company:[/strong] Evolv Technology (NYSE: EVLV) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2022 - August 2022[/p]\n[list]\n[item]Technical Programming: Designed and implemented 40+ feature additions to production line[/item]\n[item]Product Development: Personally responsible for major feature in new release[/item]\n[item]Problem Solving: Debugged and repaired testing pipeline enabling safe code deployment[/item]\n[item]Executive Communication: Presented work outputs to founder and CEO[/item]\n[/list]\n",
+          "metadata": {},
+          "icon": "FileText"
+        },
+        {
+          "type": "folder",
+          "name": "projects",
+          "path": "projects",
+          "id": "projects",
+          "label": "Projects",
+          "children": [
+            {
+              "type": "file",
+              "name": "project_001.txt",
+              "path": "projects/project_001.txt",
+              "id": "project_001",
+              "label": "Dynatrace Executive Sponsor Program",
+              "content": "---metadata---\ntitle: Dynatrace Executive Sponsor Program\nimage: /projects/dynatrace.png\n---end---\n\n[title]Dynatrace Executive Sponsor Program[/title]\n\n[p][strong]Role:[/strong] Transformation Office Intern[/p]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT)[/p]\n[p][strong]Duration:[/strong] June 2024 - September 2024[/p]\n\n[h2]Description[/h2]\n[p]Led enablement initiative for high-value accounts generating 100M+ in annual revenue to drive customer retention through executive sponsorship.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Program Management: Organized core team of senior management across all Dynatrace organizations[/item]\n[item]Executive Communications: Developed and delivered enablement materials for C-suite engagement[/item]\n[item]Stakeholder Coordination: Managed relationships between ~45 internal team members and vendors[/item]\n[item]Performance Tracking: Monitored program metrics and customer retention indicators[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]Salesforce CRM[/item]\n[item]Excel (Advanced Analytics)[/item]\n[item]PowerPoint (Executive Presentations)[/item]\n[item]Atlassian Suite (Project Management)[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]Managed accounts worth 100M+ annually[/item]\n[item]Coordinated cross-organizational teams[/item]\n[item]Improved executive-level customer engagement[/item]\n[item]Enhanced customer retention strategy[/item]\n[/list]\n\n[img]/projects/dynatrace.png[/img]\n",
+              "metadata": {
+                "title": "Dynatrace Executive Sponsor Program",
+                "image": "/projects/dynatrace.png"
+              },
+              "parent": "projects",
+              "icon": "FileText"
+            },
+            {
+              "type": "file",
+              "name": "project_002.txt",
+              "path": "projects/project_002.txt",
+              "id": "project_002",
+              "label": "Evolv Digital Product Development",
+              "content": "---metadata---\ntitle: Evolv Digital Product Development\nimage: /projects/evolv.png\n---end---\n\n[title]Evolv Digital Product Development[/title]\n\n[p][strong]Role:[/strong] Digital Product Developer Intern[/p]\n[p][strong]Company:[/strong] Evolv Technology (NYSE: EVLV)[/p]\n[p][strong]Duration:[/strong] June 2022 - August 2022[/p]\n\n[h2]Description[/h2]\n[p]Contributed to new version release of Evolv's core digital product targeting greater penetration across multiple client archetypes in the weapons detection industry.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Feature Development: Designed, programmed, and implemented 40+ feature additions to production[/item]\n[item]Major Feature Owner: Personally responsible for significant feature in the new release[/item]\n[item]Quality Assurance: Debugged and repaired testing pipeline for 7-member web team[/item]\n[item]Executive Presentations: Presented work outputs to company founder and CEO[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]JavaScript/TypeScript[/item]\n[item]HTML/CSS[/item]\n[item]Git Version Control[/item]\n[item]Testing Frameworks[/item]\n[item]CI/CD Pipeline Tools[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]40+ features shipped to production[/item]\n[item]Major feature ownership in new release[/item]\n[item]Enabled safe code deployment for entire team[/item]\n[item]Direct CEO-level communication and reporting[/item]\n[/list]\n\n[img]/projects/evolv.png[/img]\n",
+              "metadata": {
+                "title": "Evolv Digital Product Development",
+                "image": "/projects/evolv.png"
+              },
+              "parent": "projects",
+              "icon": "FileText"
+            },
+            {
+              "type": "file",
+              "name": "project_003.txt",
+              "path": "projects/project_003.txt",
+              "id": "project_003",
+              "label": "Tufts Gaming Hub Leadership",
+              "content": "---metadata---\ntitle: Tufts Gaming Hub Leadership\nimage: /projects/gaming-hub.png\n---end---\n\n[title]Tufts Gaming Hub Leadership[/title]\n\n[p][strong]Role:[/strong] President & Founder[/p]\n[p][strong]Organization:[/strong] Tufts Gaming Hub[/p]\n[p][strong]Duration:[/strong] 2022 - Present[/p]\n[p][strong]Community Size:[/strong] 1000+ Members[/p]\n\n[h2]Description[/h2]\n[p]Built and led one of Tufts University's largest student organizations, creating an inclusive gaming community focused on engagement, events, and community guidelines enforcement.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Community Management: Grew organization to 1000+ active members across multiple platforms[/item]\n[item]Social Media Strategy: Drove engagement through content creation and event marketing[/item]\n[item]Event Planning: Organized regular gaming events, tournaments, and social gatherings[/item]\n[item]Conflict Resolution: Handled community guideline infractions and maintained positive culture[/item]\n[item]Ethics & Standards: Established and enforced strong code of ethics for all members[/item]\n[/list]\n\n[h2]Skills Developed[/h2]\n[list]\n[item]Large-scale community leadership (1000+ people)[/item]\n[item]Social media marketing and engagement[/item]\n[item]Event planning and execution[/item]\n[item]Conflict resolution and mediation[/item]\n[item]Policy development and enforcement[/item]\n[item]Budget management[/item]\n[item]Stakeholder communication[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]1000+ member community built from scratch[/item]\n[item]Regular high-engagement events[/item]\n[item]Strong ethical culture and guidelines[/item]\n[item]Positive reputation across campus[/item]\n[item]Sustainable leadership transition model[/item]\n[/list]\n\n[img]/projects/gaming-hub.png[/img]\n",
+              "metadata": {
+                "title": "Tufts Gaming Hub Leadership",
+                "image": "/projects/gaming-hub.png"
+              },
+              "parent": "projects",
+              "icon": "FileText"
+            }
+          ],
+          "icon": "Folder",
+          "content": "[title]Projects[/title]\n\n[p]Select a project to view details:[/p]\n\n[h2]1. Dynatrace Executive Sponsor Program[/h2]\n[p]Transformation Office Intern | June 2024 - September 2024[/p]\n\n[h2]2. Evolv Digital Product Development[/h2]\n[p]Digital Product Developer Intern | June 2022 - August 2022[/p]\n\n[h2]3. Tufts Gaming Hub Leadership[/h2]\n[p]President & Founder | 2022 - Present | 1000+ Members[/p]\n\n[p]Navigate using arrow keys or the navigation menu to explore each project in detail.[/p]\n",
+          "metadata": {}
+        },
+        {
+          "type": "folder",
+          "name": "skills",
+          "path": "skills",
+          "id": "skills",
+          "label": "Skills",
+          "children": [
+            {
+              "type": "file",
+              "name": "skills_business.txt",
+              "path": "skills/skills_business.txt",
+              "id": "skills_business",
+              "label": "Skills Business",
+              "content": "[title]Business Skills[/title]\n\n[h2]Business & Data Tools[/h2]\n[list]\n[item]Salesforce CRM (Advanced - 90%)[/item]\n[item]Excel - Advanced Analytics (Expert - 95%)[/item]\n[item]Atlassian Suite (Advanced - 85%)[/item]\n[item]PowerPoint - Executive Presentations (Advanced - 90%)[/item]\n[item]Word (Advanced - 90%)[/item]\n[/list]\n\n[h2]Soft Skills[/h2]\n[list]\n[item]Executive Communication (Expert - 95%)[/item]\n[item]Large Team Coordination (Advanced - 90%)[/item]\n[item]Public Speaking (Expert - 95%)[/item]\n[item]Leadership (Expert - 95%)[/item]\n[item]Problem Solving (Expert - 95%)[/item]\n[/list]\n\n[h2]Languages[/h2]\n[list]\n[item]English - Native (100%)[/item]\n[item]Italian - Proficient (90%)[/item]\n[item]Hindi - Basic (60%)[/item]\n[item]Mandarin - Elementary (40%)[/item]\n[/list]\n",
+              "metadata": {},
+              "parent": "skills",
+              "icon": "FileText"
+            },
+            {
+              "type": "file",
+              "name": "skills_consulting.txt",
+              "path": "skills/skills_consulting.txt",
+              "id": "skills_consulting",
+              "label": "Skills Consulting",
+              "content": "[title]Consulting Skills[/title]\n\n[h2]Executive Communication[/h2]\n[p]Expert at developing and delivering enablement materials for C-suite engagement. Experienced presenting to company founders and CEOs.[/p]\n\n[h2]Program Management[/h2]\n[p]Led cross-organizational initiatives at Dynatrace managing senior management teams and coordinating ~45 team members and vendors.[/p]\n\n[h2]Stakeholder Coordination[/h2]\n[p]Managed relationships for high-value accounts generating 100M+ annually. Strong track record in customer retention strategy.[/p]\n\n[h2]Leadership Experience[/h2]\n[list]\n[item]President of 1000+ member organization[/item]\n[item]Coordinated teams across multiple departments[/item]\n[item]Managed executive-level communications[/item]\n[item]Led transformation office initiatives[/item]\n[/list]\n",
+              "metadata": {},
+              "parent": "skills",
+              "icon": "FileText"
+            },
+            {
+              "type": "file",
+              "name": "skills_development.txt",
+              "path": "skills/skills_development.txt",
+              "id": "skills_development",
+              "label": "Skills Development",
+              "content": "[title]Development Skills[/title]\n\n[h2]Programming Languages[/h2]\n[list]\n[item]JavaScript/TypeScript (Expert - 95%)[/item]\n[item]Python (Advanced - 90%)[/item]\n[item]R (Advanced - 85%)[/item]\n[item]STATA (Advanced - 85%)[/item]\n[item]C++ (Intermediate - 75%)[/item]\n[item]C / C# (Intermediate - 70%)[/item]\n[item]Java (Intermediate - 70%)[/item]\n[/list]\n\n[h2]Web Technologies[/h2]\n[list]\n[item]React.js (Expert - 95%)[/item]\n[item]Next.js (Advanced - 90%)[/item]\n[item]Tailwind CSS (Expert - 95%)[/item]\n[item]HTML/CSS (Expert - 95%)[/item]\n[item]Git (Advanced - 90%)[/item]\n[/list]\n\n[h2]Experience Highlights[/h2]\n[list]\n[item]Shipped 40+ features to production at Evolv[/item]\n[item]Personally responsible for major feature in release[/item]\n[item]Debugged and repaired testing pipeline for team[/item]\n[item]CI/CD pipeline expertise[/item]\n[/list]\n",
+              "metadata": {},
+              "parent": "skills",
+              "icon": "FileText"
+            }
+          ],
+          "icon": "Folder",
+          "content": "[title]Technical Skills[/title]\n\n[p]Explore skills by category:[/p]\n\n[h2]Consulting Skills[/h2]\n[p]Executive communication, stakeholder management, program leadership[/p]\n\n[h2]Development Skills[/h2]\n[p]JavaScript/TypeScript, React, Python, Full-stack development[/p]\n\n[h2]Business Skills[/h2]\n[p]Salesforce, Excel (Advanced), Data analysis, Project management[/p]\n\n[p]Navigate using arrow keys or the navigation menu to explore each category in detail.[/p]\n",
+          "metadata": {}
+        }
+      ],
+      "icon": "Folder"
+    },
+    "flatList": [
+      {
+        "type": "folder",
+        "name": "root",
+        "path": "",
+        "id": "root",
+        "label": "Root",
+        "children": [
+          {
+            "type": "file",
+            "name": "about.txt",
+            "path": "about.txt",
+            "id": "about",
+            "label": "About",
+            "content": "[title]About Me[/title]\n\n[p][strong]Name:[/strong] Tej S. Chhabra[/p]\n[p][strong]Title:[/strong] Associate Consultant @ Mars & Co.[/p]\n[p][strong]Location:[/strong] New York, New York, United States[/p]\n\n[h2]Summary[/h2]\n[p]Passionate about integrating product engineering, data sciences, and econometrics to drive business strategy and direction. Combining Human Factors Engineering and Economics education from Tufts University to solve problems through creativity, innovation, and data.[/p]\n\n[h2]Education[/h2]\n[list]\n[item]BS Human Factors Engineering; BA Economics[/item]\n[item]Tufts University (2021-2025)[/item]\n[item]GPA: 3.79 | SAT Math: 800[/item]\n[item]Dean's List all semesters[/item]\n[/list]\n\n[h2]Leadership[/h2]\n[list]\n[item]President of the Tufts Gaming Hub (1000+ Members)[/item]\n[item]Director of Cheap Sox Improv[/item]\n[item]Tufts Climbing Team Member[/item]\n[/list]\n\n[h2]Interests[/h2]\n[list]\n[item]Self-taught musician and audio engineer[/item]\n[item]Recording and distributing music under the name 7ej[/item]\n[item]Gaming and community building[/item]\n[item]Improv comedy and public speaking[/item]\n[/list]\n",
+            "metadata": {},
+            "icon": "FileText"
+          },
+          {
+            "type": "file",
+            "name": "contact.txt",
+            "path": "contact.txt",
+            "id": "contact",
+            "label": "Contact",
+            "content": "[title]Contact Information[/title]\n\n[h2]Get In Touch[/h2]\n[p][strong]Email:[/strong] tej.chhabra03@gmail.com[/p]\n[p][strong]Alternate:[/strong] tej.chhabra@tufts.edu[/p]\n[p][strong]LinkedIn:[/strong] linkedin.com/in/tejchhabra[/p]\n[p][strong]Personal Links:[/strong] linktr.ee/7ej[/p]\n[p][strong]Music:[/strong] 7ej (Self-taught musician & audio engineer)[/p]\n\n[h2]Location & Contact[/h2]\n[p][strong]Location:[/strong] New York, New York[/p]\n[p][strong]Phone:[/strong] (617) 314-1535[/p]\n\n[h2]Current Status[/h2]\n[p]Associate Consultant @ Mars & Co.[/p]\n[p][strong]Availability:[/strong] Open to opportunities[/p]\n\n[h2]Reach Out For[/h2]\n[list]\n[item]Consulting opportunities[/item]\n[item]Collaboration on engineering/economics projects[/item]\n[item]Speaking engagements[/item]\n[item]Music collaboration[/item]\n[item]Community building initiatives[/item]\n[/list]\n\n[p][strong]Response Time:[/strong] Usually within 24 hours[/p]\n",
+            "metadata": {},
+            "icon": "FileText"
+          },
+          {
+            "type": "file",
+            "name": "education.txt",
+            "path": "education.txt",
+            "id": "education",
+            "label": "Education",
+            "content": "[title]Education[/title]\n\n[h2]Tufts University[/h2]\n[p][strong]Location:[/strong] Medford, MA | [strong]Years:[/strong] 2021 - 2025[/p]\n\n[p][strong]Degrees:[/strong][/p]\n[list]\n[item]BS Human Factors Engineering[/item]\n[item]BA Economics[/item]\n[/list]\n\n[p][strong]Academic Achievement:[/strong][/p]\n[list]\n[item]GPA: 3.79 / 4.0[/item]\n[item]Dean's List: All semesters[/item]\n[item]SAT: Math 800 | English 720[/item]\n[/list]\n\n[p][strong]Campus Leadership:[/strong][/p]\n[list]\n[item]President, Tufts Gaming Hub (~1000 Members)[/item]\n[item]Director, Cheap Sox Improv[/item]\n[item]Member, Tufts Climbing Team[/item]\n[/list]\n\n[h2]Lexington High School[/h2]\n[p][strong]Location:[/strong] Lexington, MA | [strong]Years:[/strong] 2017 - 2021[/p]\n[p]Ranked Top 50 Public High Schools in US[/p]\n\n[p][strong]Leadership Positions:[/strong][/p]\n[list]\n[item]President, Model United Nations Club[/item]\n[item]President, Digital Imaging and Design Club[/item]\n[item]President, Magic Club[/item]\n[/list]\n\n[p][strong]Community Service:[/strong][/p]\n[list]\n[item]Head of Library Leadership Council - Cary Memorial Library (2014-2021)[/item]\n[item]Elected leader of teen volunteer group[/item]\n[item]Responsible for planning, marketing, and executing community events[/item]\n[/list]\n",
+            "metadata": {},
+            "icon": "FileText"
+          },
+          {
+            "type": "file",
+            "name": "experience.txt",
+            "path": "experience.txt",
+            "id": "experience",
+            "label": "Experience",
+            "content": "[title]Work Experience[/title]\n\n[h2]Associate Consultant[/h2]\n[p][strong]Company:[/strong] Mars & Co. | [strong]Location:[/strong] New York, NY[/p]\n[p][strong]Duration:[/strong] September 2025 - Present[/p]\n[list]\n[item]Strategy consulting at premier firm[/item]\n[item]Working with Fortune 500 clients[/item]\n[/list]\n\n[h2]Director of Operations[/h2]\n[p][strong]Company:[/strong] JAV | [strong]Location:[/strong] Tampa, FL (Advisory Capacity)[/p]\n[p][strong]Duration:[/strong] January 2025 - Present[/p]\n[list]\n[item]Strategic advisory role[/item]\n[item]Operations management and optimization[/item]\n[/list]\n\n[h2]Teaching Assistant[/h2]\n[p][strong]Institution:[/strong] Tufts University | [strong]Location:[/strong] Somerville, MA[/p]\n[p][strong]Duration:[/strong] September 2024 - January 2025[/p]\n[p][strong]Course:[/strong] EN1 Intro to Engineering - Application of Self Driving Cars[/p]\n[list]\n[item]Enhanced curriculum for 31 students[/item]\n[item]Graded multiple weekly assignments[/item]\n[item]Brought new ideas to improve student learning[/item]\n[/list]\n\n[h2]Transformation Office Intern[/h2]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2024 - September 2024[/p]\n[list]\n[item]Program Management: Organized core team of senior management across all Dynatrace organizations[/item]\n[item]Executive Communications: Ran enablement for accounts generating 100M+ annually[/item]\n[item]Team Coordination: Coordinated hands-on demos between ~45 internal team members and vendors[/item]\n[/list]\n\n[h2]Sales Operations Intern[/h2]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2023 - June 2024[/p]\n[list]\n[item]Trend Analysis: Identified Salesforce issues by analyzing data and conferring with sales reps[/item]\n[item]Cross-functional Workflows: Developed top-of-funnel skills and competitive playbook with marketing[/item]\n[item]Problem Solving: Created Excel tracker for manual data verification with metric-driven insights[/item]\n[/list]\n\n[h2]Co-Founder[/h2]\n[p][strong]Company:[/strong] Consulting Freelancing - Design-to-Value Agency[/p]\n[p][strong]Duration:[/strong] May 2023 - June 2023[/p]\n[list]\n[item]Created product breakdown for AlixPartners team[/item]\n[item]Identified key cost saving opportunities for contract negotiations with manufacturers[/item]\n[item]Gave retailers leverage in vendor relationships[/item]\n[/list]\n\n[h2]Digital Product Developer Intern[/h2]\n[p][strong]Company:[/strong] Evolv Technology (NYSE: EVLV) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2022 - August 2022[/p]\n[list]\n[item]Technical Programming: Designed and implemented 40+ feature additions to production line[/item]\n[item]Product Development: Personally responsible for major feature in new release[/item]\n[item]Problem Solving: Debugged and repaired testing pipeline enabling safe code deployment[/item]\n[item]Executive Communication: Presented work outputs to founder and CEO[/item]\n[/list]\n",
+            "metadata": {},
+            "icon": "FileText"
+          },
+          {
+            "type": "folder",
+            "name": "projects",
+            "path": "projects",
+            "id": "projects",
+            "label": "Projects",
+            "children": [
+              {
+                "type": "file",
+                "name": "project_001.txt",
+                "path": "projects/project_001.txt",
+                "id": "project_001",
+                "label": "Dynatrace Executive Sponsor Program",
+                "content": "---metadata---\ntitle: Dynatrace Executive Sponsor Program\nimage: /projects/dynatrace.png\n---end---\n\n[title]Dynatrace Executive Sponsor Program[/title]\n\n[p][strong]Role:[/strong] Transformation Office Intern[/p]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT)[/p]\n[p][strong]Duration:[/strong] June 2024 - September 2024[/p]\n\n[h2]Description[/h2]\n[p]Led enablement initiative for high-value accounts generating 100M+ in annual revenue to drive customer retention through executive sponsorship.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Program Management: Organized core team of senior management across all Dynatrace organizations[/item]\n[item]Executive Communications: Developed and delivered enablement materials for C-suite engagement[/item]\n[item]Stakeholder Coordination: Managed relationships between ~45 internal team members and vendors[/item]\n[item]Performance Tracking: Monitored program metrics and customer retention indicators[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]Salesforce CRM[/item]\n[item]Excel (Advanced Analytics)[/item]\n[item]PowerPoint (Executive Presentations)[/item]\n[item]Atlassian Suite (Project Management)[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]Managed accounts worth 100M+ annually[/item]\n[item]Coordinated cross-organizational teams[/item]\n[item]Improved executive-level customer engagement[/item]\n[item]Enhanced customer retention strategy[/item]\n[/list]\n\n[img]/projects/dynatrace.png[/img]\n",
+                "metadata": {
+                  "title": "Dynatrace Executive Sponsor Program",
+                  "image": "/projects/dynatrace.png"
+                },
+                "parent": "projects",
+                "icon": "FileText"
+              },
+              {
+                "type": "file",
+                "name": "project_002.txt",
+                "path": "projects/project_002.txt",
+                "id": "project_002",
+                "label": "Evolv Digital Product Development",
+                "content": "---metadata---\ntitle: Evolv Digital Product Development\nimage: /projects/evolv.png\n---end---\n\n[title]Evolv Digital Product Development[/title]\n\n[p][strong]Role:[/strong] Digital Product Developer Intern[/p]\n[p][strong]Company:[/strong] Evolv Technology (NYSE: EVLV)[/p]\n[p][strong]Duration:[/strong] June 2022 - August 2022[/p]\n\n[h2]Description[/h2]\n[p]Contributed to new version release of Evolv's core digital product targeting greater penetration across multiple client archetypes in the weapons detection industry.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Feature Development: Designed, programmed, and implemented 40+ feature additions to production[/item]\n[item]Major Feature Owner: Personally responsible for significant feature in the new release[/item]\n[item]Quality Assurance: Debugged and repaired testing pipeline for 7-member web team[/item]\n[item]Executive Presentations: Presented work outputs to company founder and CEO[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]JavaScript/TypeScript[/item]\n[item]HTML/CSS[/item]\n[item]Git Version Control[/item]\n[item]Testing Frameworks[/item]\n[item]CI/CD Pipeline Tools[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]40+ features shipped to production[/item]\n[item]Major feature ownership in new release[/item]\n[item]Enabled safe code deployment for entire team[/item]\n[item]Direct CEO-level communication and reporting[/item]\n[/list]\n\n[img]/projects/evolv.png[/img]\n",
+                "metadata": {
+                  "title": "Evolv Digital Product Development",
+                  "image": "/projects/evolv.png"
+                },
+                "parent": "projects",
+                "icon": "FileText"
+              },
+              {
+                "type": "file",
+                "name": "project_003.txt",
+                "path": "projects/project_003.txt",
+                "id": "project_003",
+                "label": "Tufts Gaming Hub Leadership",
+                "content": "---metadata---\ntitle: Tufts Gaming Hub Leadership\nimage: /projects/gaming-hub.png\n---end---\n\n[title]Tufts Gaming Hub Leadership[/title]\n\n[p][strong]Role:[/strong] President & Founder[/p]\n[p][strong]Organization:[/strong] Tufts Gaming Hub[/p]\n[p][strong]Duration:[/strong] 2022 - Present[/p]\n[p][strong]Community Size:[/strong] 1000+ Members[/p]\n\n[h2]Description[/h2]\n[p]Built and led one of Tufts University's largest student organizations, creating an inclusive gaming community focused on engagement, events, and community guidelines enforcement.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Community Management: Grew organization to 1000+ active members across multiple platforms[/item]\n[item]Social Media Strategy: Drove engagement through content creation and event marketing[/item]\n[item]Event Planning: Organized regular gaming events, tournaments, and social gatherings[/item]\n[item]Conflict Resolution: Handled community guideline infractions and maintained positive culture[/item]\n[item]Ethics & Standards: Established and enforced strong code of ethics for all members[/item]\n[/list]\n\n[h2]Skills Developed[/h2]\n[list]\n[item]Large-scale community leadership (1000+ people)[/item]\n[item]Social media marketing and engagement[/item]\n[item]Event planning and execution[/item]\n[item]Conflict resolution and mediation[/item]\n[item]Policy development and enforcement[/item]\n[item]Budget management[/item]\n[item]Stakeholder communication[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]1000+ member community built from scratch[/item]\n[item]Regular high-engagement events[/item]\n[item]Strong ethical culture and guidelines[/item]\n[item]Positive reputation across campus[/item]\n[item]Sustainable leadership transition model[/item]\n[/list]\n\n[img]/projects/gaming-hub.png[/img]\n",
+                "metadata": {
+                  "title": "Tufts Gaming Hub Leadership",
+                  "image": "/projects/gaming-hub.png"
+                },
+                "parent": "projects",
+                "icon": "FileText"
+              }
+            ],
+            "icon": "Folder",
+            "content": "[title]Projects[/title]\n\n[p]Select a project to view details:[/p]\n\n[h2]1. Dynatrace Executive Sponsor Program[/h2]\n[p]Transformation Office Intern | June 2024 - September 2024[/p]\n\n[h2]2. Evolv Digital Product Development[/h2]\n[p]Digital Product Developer Intern | June 2022 - August 2022[/p]\n\n[h2]3. Tufts Gaming Hub Leadership[/h2]\n[p]President & Founder | 2022 - Present | 1000+ Members[/p]\n\n[p]Navigate using arrow keys or the navigation menu to explore each project in detail.[/p]\n",
+            "metadata": {}
+          },
+          {
+            "type": "folder",
+            "name": "skills",
+            "path": "skills",
+            "id": "skills",
+            "label": "Skills",
+            "children": [
+              {
+                "type": "file",
+                "name": "skills_business.txt",
+                "path": "skills/skills_business.txt",
+                "id": "skills_business",
+                "label": "Skills Business",
+                "content": "[title]Business Skills[/title]\n\n[h2]Business & Data Tools[/h2]\n[list]\n[item]Salesforce CRM (Advanced - 90%)[/item]\n[item]Excel - Advanced Analytics (Expert - 95%)[/item]\n[item]Atlassian Suite (Advanced - 85%)[/item]\n[item]PowerPoint - Executive Presentations (Advanced - 90%)[/item]\n[item]Word (Advanced - 90%)[/item]\n[/list]\n\n[h2]Soft Skills[/h2]\n[list]\n[item]Executive Communication (Expert - 95%)[/item]\n[item]Large Team Coordination (Advanced - 90%)[/item]\n[item]Public Speaking (Expert - 95%)[/item]\n[item]Leadership (Expert - 95%)[/item]\n[item]Problem Solving (Expert - 95%)[/item]\n[/list]\n\n[h2]Languages[/h2]\n[list]\n[item]English - Native (100%)[/item]\n[item]Italian - Proficient (90%)[/item]\n[item]Hindi - Basic (60%)[/item]\n[item]Mandarin - Elementary (40%)[/item]\n[/list]\n",
+                "metadata": {},
+                "parent": "skills",
+                "icon": "FileText"
+              },
+              {
+                "type": "file",
+                "name": "skills_consulting.txt",
+                "path": "skills/skills_consulting.txt",
+                "id": "skills_consulting",
+                "label": "Skills Consulting",
+                "content": "[title]Consulting Skills[/title]\n\n[h2]Executive Communication[/h2]\n[p]Expert at developing and delivering enablement materials for C-suite engagement. Experienced presenting to company founders and CEOs.[/p]\n\n[h2]Program Management[/h2]\n[p]Led cross-organizational initiatives at Dynatrace managing senior management teams and coordinating ~45 team members and vendors.[/p]\n\n[h2]Stakeholder Coordination[/h2]\n[p]Managed relationships for high-value accounts generating 100M+ annually. Strong track record in customer retention strategy.[/p]\n\n[h2]Leadership Experience[/h2]\n[list]\n[item]President of 1000+ member organization[/item]\n[item]Coordinated teams across multiple departments[/item]\n[item]Managed executive-level communications[/item]\n[item]Led transformation office initiatives[/item]\n[/list]\n",
+                "metadata": {},
+                "parent": "skills",
+                "icon": "FileText"
+              },
+              {
+                "type": "file",
+                "name": "skills_development.txt",
+                "path": "skills/skills_development.txt",
+                "id": "skills_development",
+                "label": "Skills Development",
+                "content": "[title]Development Skills[/title]\n\n[h2]Programming Languages[/h2]\n[list]\n[item]JavaScript/TypeScript (Expert - 95%)[/item]\n[item]Python (Advanced - 90%)[/item]\n[item]R (Advanced - 85%)[/item]\n[item]STATA (Advanced - 85%)[/item]\n[item]C++ (Intermediate - 75%)[/item]\n[item]C / C# (Intermediate - 70%)[/item]\n[item]Java (Intermediate - 70%)[/item]\n[/list]\n\n[h2]Web Technologies[/h2]\n[list]\n[item]React.js (Expert - 95%)[/item]\n[item]Next.js (Advanced - 90%)[/item]\n[item]Tailwind CSS (Expert - 95%)[/item]\n[item]HTML/CSS (Expert - 95%)[/item]\n[item]Git (Advanced - 90%)[/item]\n[/list]\n\n[h2]Experience Highlights[/h2]\n[list]\n[item]Shipped 40+ features to production at Evolv[/item]\n[item]Personally responsible for major feature in release[/item]\n[item]Debugged and repaired testing pipeline for team[/item]\n[item]CI/CD pipeline expertise[/item]\n[/list]\n",
+                "metadata": {},
+                "parent": "skills",
+                "icon": "FileText"
+              }
+            ],
+            "icon": "Folder",
+            "content": "[title]Technical Skills[/title]\n\n[p]Explore skills by category:[/p]\n\n[h2]Consulting Skills[/h2]\n[p]Executive communication, stakeholder management, program leadership[/p]\n\n[h2]Development Skills[/h2]\n[p]JavaScript/TypeScript, React, Python, Full-stack development[/p]\n\n[h2]Business Skills[/h2]\n[p]Salesforce, Excel (Advanced), Data analysis, Project management[/p]\n\n[p]Navigate using arrow keys or the navigation menu to explore each category in detail.[/p]\n",
+            "metadata": {}
+          }
+        ],
+        "icon": "Folder"
+      },
+      {
+        "type": "file",
+        "name": "about.txt",
+        "path": "about.txt",
+        "id": "about",
+        "label": "About",
+        "content": "[title]About Me[/title]\n\n[p][strong]Name:[/strong] Tej S. Chhabra[/p]\n[p][strong]Title:[/strong] Associate Consultant @ Mars & Co.[/p]\n[p][strong]Location:[/strong] New York, New York, United States[/p]\n\n[h2]Summary[/h2]\n[p]Passionate about integrating product engineering, data sciences, and econometrics to drive business strategy and direction. Combining Human Factors Engineering and Economics education from Tufts University to solve problems through creativity, innovation, and data.[/p]\n\n[h2]Education[/h2]\n[list]\n[item]BS Human Factors Engineering; BA Economics[/item]\n[item]Tufts University (2021-2025)[/item]\n[item]GPA: 3.79 | SAT Math: 800[/item]\n[item]Dean's List all semesters[/item]\n[/list]\n\n[h2]Leadership[/h2]\n[list]\n[item]President of the Tufts Gaming Hub (1000+ Members)[/item]\n[item]Director of Cheap Sox Improv[/item]\n[item]Tufts Climbing Team Member[/item]\n[/list]\n\n[h2]Interests[/h2]\n[list]\n[item]Self-taught musician and audio engineer[/item]\n[item]Recording and distributing music under the name 7ej[/item]\n[item]Gaming and community building[/item]\n[item]Improv comedy and public speaking[/item]\n[/list]\n",
+        "metadata": {},
+        "icon": "FileText"
+      },
+      {
+        "type": "file",
+        "name": "contact.txt",
+        "path": "contact.txt",
+        "id": "contact",
+        "label": "Contact",
+        "content": "[title]Contact Information[/title]\n\n[h2]Get In Touch[/h2]\n[p][strong]Email:[/strong] tej.chhabra03@gmail.com[/p]\n[p][strong]Alternate:[/strong] tej.chhabra@tufts.edu[/p]\n[p][strong]LinkedIn:[/strong] linkedin.com/in/tejchhabra[/p]\n[p][strong]Personal Links:[/strong] linktr.ee/7ej[/p]\n[p][strong]Music:[/strong] 7ej (Self-taught musician & audio engineer)[/p]\n\n[h2]Location & Contact[/h2]\n[p][strong]Location:[/strong] New York, New York[/p]\n[p][strong]Phone:[/strong] (617) 314-1535[/p]\n\n[h2]Current Status[/h2]\n[p]Associate Consultant @ Mars & Co.[/p]\n[p][strong]Availability:[/strong] Open to opportunities[/p]\n\n[h2]Reach Out For[/h2]\n[list]\n[item]Consulting opportunities[/item]\n[item]Collaboration on engineering/economics projects[/item]\n[item]Speaking engagements[/item]\n[item]Music collaboration[/item]\n[item]Community building initiatives[/item]\n[/list]\n\n[p][strong]Response Time:[/strong] Usually within 24 hours[/p]\n",
+        "metadata": {},
+        "icon": "FileText"
+      },
+      {
+        "type": "file",
+        "name": "education.txt",
+        "path": "education.txt",
+        "id": "education",
+        "label": "Education",
+        "content": "[title]Education[/title]\n\n[h2]Tufts University[/h2]\n[p][strong]Location:[/strong] Medford, MA | [strong]Years:[/strong] 2021 - 2025[/p]\n\n[p][strong]Degrees:[/strong][/p]\n[list]\n[item]BS Human Factors Engineering[/item]\n[item]BA Economics[/item]\n[/list]\n\n[p][strong]Academic Achievement:[/strong][/p]\n[list]\n[item]GPA: 3.79 / 4.0[/item]\n[item]Dean's List: All semesters[/item]\n[item]SAT: Math 800 | English 720[/item]\n[/list]\n\n[p][strong]Campus Leadership:[/strong][/p]\n[list]\n[item]President, Tufts Gaming Hub (~1000 Members)[/item]\n[item]Director, Cheap Sox Improv[/item]\n[item]Member, Tufts Climbing Team[/item]\n[/list]\n\n[h2]Lexington High School[/h2]\n[p][strong]Location:[/strong] Lexington, MA | [strong]Years:[/strong] 2017 - 2021[/p]\n[p]Ranked Top 50 Public High Schools in US[/p]\n\n[p][strong]Leadership Positions:[/strong][/p]\n[list]\n[item]President, Model United Nations Club[/item]\n[item]President, Digital Imaging and Design Club[/item]\n[item]President, Magic Club[/item]\n[/list]\n\n[p][strong]Community Service:[/strong][/p]\n[list]\n[item]Head of Library Leadership Council - Cary Memorial Library (2014-2021)[/item]\n[item]Elected leader of teen volunteer group[/item]\n[item]Responsible for planning, marketing, and executing community events[/item]\n[/list]\n",
+        "metadata": {},
+        "icon": "FileText"
+      },
+      {
+        "type": "file",
+        "name": "experience.txt",
+        "path": "experience.txt",
+        "id": "experience",
+        "label": "Experience",
+        "content": "[title]Work Experience[/title]\n\n[h2]Associate Consultant[/h2]\n[p][strong]Company:[/strong] Mars & Co. | [strong]Location:[/strong] New York, NY[/p]\n[p][strong]Duration:[/strong] September 2025 - Present[/p]\n[list]\n[item]Strategy consulting at premier firm[/item]\n[item]Working with Fortune 500 clients[/item]\n[/list]\n\n[h2]Director of Operations[/h2]\n[p][strong]Company:[/strong] JAV | [strong]Location:[/strong] Tampa, FL (Advisory Capacity)[/p]\n[p][strong]Duration:[/strong] January 2025 - Present[/p]\n[list]\n[item]Strategic advisory role[/item]\n[item]Operations management and optimization[/item]\n[/list]\n\n[h2]Teaching Assistant[/h2]\n[p][strong]Institution:[/strong] Tufts University | [strong]Location:[/strong] Somerville, MA[/p]\n[p][strong]Duration:[/strong] September 2024 - January 2025[/p]\n[p][strong]Course:[/strong] EN1 Intro to Engineering - Application of Self Driving Cars[/p]\n[list]\n[item]Enhanced curriculum for 31 students[/item]\n[item]Graded multiple weekly assignments[/item]\n[item]Brought new ideas to improve student learning[/item]\n[/list]\n\n[h2]Transformation Office Intern[/h2]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2024 - September 2024[/p]\n[list]\n[item]Program Management: Organized core team of senior management across all Dynatrace organizations[/item]\n[item]Executive Communications: Ran enablement for accounts generating 100M+ annually[/item]\n[item]Team Coordination: Coordinated hands-on demos between ~45 internal team members and vendors[/item]\n[/list]\n\n[h2]Sales Operations Intern[/h2]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2023 - June 2024[/p]\n[list]\n[item]Trend Analysis: Identified Salesforce issues by analyzing data and conferring with sales reps[/item]\n[item]Cross-functional Workflows: Developed top-of-funnel skills and competitive playbook with marketing[/item]\n[item]Problem Solving: Created Excel tracker for manual data verification with metric-driven insights[/item]\n[/list]\n\n[h2]Co-Founder[/h2]\n[p][strong]Company:[/strong] Consulting Freelancing - Design-to-Value Agency[/p]\n[p][strong]Duration:[/strong] May 2023 - June 2023[/p]\n[list]\n[item]Created product breakdown for AlixPartners team[/item]\n[item]Identified key cost saving opportunities for contract negotiations with manufacturers[/item]\n[item]Gave retailers leverage in vendor relationships[/item]\n[/list]\n\n[h2]Digital Product Developer Intern[/h2]\n[p][strong]Company:[/strong] Evolv Technology (NYSE: EVLV) | [strong]Location:[/strong] Waltham, MA[/p]\n[p][strong]Duration:[/strong] June 2022 - August 2022[/p]\n[list]\n[item]Technical Programming: Designed and implemented 40+ feature additions to production line[/item]\n[item]Product Development: Personally responsible for major feature in new release[/item]\n[item]Problem Solving: Debugged and repaired testing pipeline enabling safe code deployment[/item]\n[item]Executive Communication: Presented work outputs to founder and CEO[/item]\n[/list]\n",
+        "metadata": {},
+        "icon": "FileText"
+      },
+      {
+        "type": "folder",
+        "name": "projects",
+        "path": "projects",
+        "id": "projects",
+        "label": "Projects",
+        "children": [
+          {
+            "type": "file",
+            "name": "project_001.txt",
+            "path": "projects/project_001.txt",
+            "id": "project_001",
+            "label": "Dynatrace Executive Sponsor Program",
+            "content": "---metadata---\ntitle: Dynatrace Executive Sponsor Program\nimage: /projects/dynatrace.png\n---end---\n\n[title]Dynatrace Executive Sponsor Program[/title]\n\n[p][strong]Role:[/strong] Transformation Office Intern[/p]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT)[/p]\n[p][strong]Duration:[/strong] June 2024 - September 2024[/p]\n\n[h2]Description[/h2]\n[p]Led enablement initiative for high-value accounts generating 100M+ in annual revenue to drive customer retention through executive sponsorship.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Program Management: Organized core team of senior management across all Dynatrace organizations[/item]\n[item]Executive Communications: Developed and delivered enablement materials for C-suite engagement[/item]\n[item]Stakeholder Coordination: Managed relationships between ~45 internal team members and vendors[/item]\n[item]Performance Tracking: Monitored program metrics and customer retention indicators[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]Salesforce CRM[/item]\n[item]Excel (Advanced Analytics)[/item]\n[item]PowerPoint (Executive Presentations)[/item]\n[item]Atlassian Suite (Project Management)[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]Managed accounts worth 100M+ annually[/item]\n[item]Coordinated cross-organizational teams[/item]\n[item]Improved executive-level customer engagement[/item]\n[item]Enhanced customer retention strategy[/item]\n[/list]\n\n[img]/projects/dynatrace.png[/img]\n",
+            "metadata": {
+              "title": "Dynatrace Executive Sponsor Program",
+              "image": "/projects/dynatrace.png"
+            },
+            "parent": "projects",
+            "icon": "FileText"
+          },
+          {
+            "type": "file",
+            "name": "project_002.txt",
+            "path": "projects/project_002.txt",
+            "id": "project_002",
+            "label": "Evolv Digital Product Development",
+            "content": "---metadata---\ntitle: Evolv Digital Product Development\nimage: /projects/evolv.png\n---end---\n\n[title]Evolv Digital Product Development[/title]\n\n[p][strong]Role:[/strong] Digital Product Developer Intern[/p]\n[p][strong]Company:[/strong] Evolv Technology (NYSE: EVLV)[/p]\n[p][strong]Duration:[/strong] June 2022 - August 2022[/p]\n\n[h2]Description[/h2]\n[p]Contributed to new version release of Evolv's core digital product targeting greater penetration across multiple client archetypes in the weapons detection industry.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Feature Development: Designed, programmed, and implemented 40+ feature additions to production[/item]\n[item]Major Feature Owner: Personally responsible for significant feature in the new release[/item]\n[item]Quality Assurance: Debugged and repaired testing pipeline for 7-member web team[/item]\n[item]Executive Presentations: Presented work outputs to company founder and CEO[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]JavaScript/TypeScript[/item]\n[item]HTML/CSS[/item]\n[item]Git Version Control[/item]\n[item]Testing Frameworks[/item]\n[item]CI/CD Pipeline Tools[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]40+ features shipped to production[/item]\n[item]Major feature ownership in new release[/item]\n[item]Enabled safe code deployment for entire team[/item]\n[item]Direct CEO-level communication and reporting[/item]\n[/list]\n\n[img]/projects/evolv.png[/img]\n",
+            "metadata": {
+              "title": "Evolv Digital Product Development",
+              "image": "/projects/evolv.png"
+            },
+            "parent": "projects",
+            "icon": "FileText"
+          },
+          {
+            "type": "file",
+            "name": "project_003.txt",
+            "path": "projects/project_003.txt",
+            "id": "project_003",
+            "label": "Tufts Gaming Hub Leadership",
+            "content": "---metadata---\ntitle: Tufts Gaming Hub Leadership\nimage: /projects/gaming-hub.png\n---end---\n\n[title]Tufts Gaming Hub Leadership[/title]\n\n[p][strong]Role:[/strong] President & Founder[/p]\n[p][strong]Organization:[/strong] Tufts Gaming Hub[/p]\n[p][strong]Duration:[/strong] 2022 - Present[/p]\n[p][strong]Community Size:[/strong] 1000+ Members[/p]\n\n[h2]Description[/h2]\n[p]Built and led one of Tufts University's largest student organizations, creating an inclusive gaming community focused on engagement, events, and community guidelines enforcement.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Community Management: Grew organization to 1000+ active members across multiple platforms[/item]\n[item]Social Media Strategy: Drove engagement through content creation and event marketing[/item]\n[item]Event Planning: Organized regular gaming events, tournaments, and social gatherings[/item]\n[item]Conflict Resolution: Handled community guideline infractions and maintained positive culture[/item]\n[item]Ethics & Standards: Established and enforced strong code of ethics for all members[/item]\n[/list]\n\n[h2]Skills Developed[/h2]\n[list]\n[item]Large-scale community leadership (1000+ people)[/item]\n[item]Social media marketing and engagement[/item]\n[item]Event planning and execution[/item]\n[item]Conflict resolution and mediation[/item]\n[item]Policy development and enforcement[/item]\n[item]Budget management[/item]\n[item]Stakeholder communication[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]1000+ member community built from scratch[/item]\n[item]Regular high-engagement events[/item]\n[item]Strong ethical culture and guidelines[/item]\n[item]Positive reputation across campus[/item]\n[item]Sustainable leadership transition model[/item]\n[/list]\n\n[img]/projects/gaming-hub.png[/img]\n",
+            "metadata": {
+              "title": "Tufts Gaming Hub Leadership",
+              "image": "/projects/gaming-hub.png"
+            },
+            "parent": "projects",
+            "icon": "FileText"
+          }
+        ],
+        "icon": "Folder",
+        "content": "[title]Projects[/title]\n\n[p]Select a project to view details:[/p]\n\n[h2]1. Dynatrace Executive Sponsor Program[/h2]\n[p]Transformation Office Intern | June 2024 - September 2024[/p]\n\n[h2]2. Evolv Digital Product Development[/h2]\n[p]Digital Product Developer Intern | June 2022 - August 2022[/p]\n\n[h2]3. Tufts Gaming Hub Leadership[/h2]\n[p]President & Founder | 2022 - Present | 1000+ Members[/p]\n\n[p]Navigate using arrow keys or the navigation menu to explore each project in detail.[/p]\n",
+        "metadata": {}
+      },
+      {
+        "type": "file",
+        "name": "project_001.txt",
+        "path": "projects/project_001.txt",
+        "id": "project_001",
+        "label": "Dynatrace Executive Sponsor Program",
+        "content": "---metadata---\ntitle: Dynatrace Executive Sponsor Program\nimage: /projects/dynatrace.png\n---end---\n\n[title]Dynatrace Executive Sponsor Program[/title]\n\n[p][strong]Role:[/strong] Transformation Office Intern[/p]\n[p][strong]Company:[/strong] Dynatrace (NYSE: DT)[/p]\n[p][strong]Duration:[/strong] June 2024 - September 2024[/p]\n\n[h2]Description[/h2]\n[p]Led enablement initiative for high-value accounts generating 100M+ in annual revenue to drive customer retention through executive sponsorship.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Program Management: Organized core team of senior management across all Dynatrace organizations[/item]\n[item]Executive Communications: Developed and delivered enablement materials for C-suite engagement[/item]\n[item]Stakeholder Coordination: Managed relationships between ~45 internal team members and vendors[/item]\n[item]Performance Tracking: Monitored program metrics and customer retention indicators[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]Salesforce CRM[/item]\n[item]Excel (Advanced Analytics)[/item]\n[item]PowerPoint (Executive Presentations)[/item]\n[item]Atlassian Suite (Project Management)[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]Managed accounts worth 100M+ annually[/item]\n[item]Coordinated cross-organizational teams[/item]\n[item]Improved executive-level customer engagement[/item]\n[item]Enhanced customer retention strategy[/item]\n[/list]\n\n[img]/projects/dynatrace.png[/img]\n",
+        "metadata": {
+          "title": "Dynatrace Executive Sponsor Program",
+          "image": "/projects/dynatrace.png"
+        },
+        "parent": "projects",
+        "icon": "FileText"
+      },
+      {
+        "type": "file",
+        "name": "project_002.txt",
+        "path": "projects/project_002.txt",
+        "id": "project_002",
+        "label": "Evolv Digital Product Development",
+        "content": "---metadata---\ntitle: Evolv Digital Product Development\nimage: /projects/evolv.png\n---end---\n\n[title]Evolv Digital Product Development[/title]\n\n[p][strong]Role:[/strong] Digital Product Developer Intern[/p]\n[p][strong]Company:[/strong] Evolv Technology (NYSE: EVLV)[/p]\n[p][strong]Duration:[/strong] June 2022 - August 2022[/p]\n\n[h2]Description[/h2]\n[p]Contributed to new version release of Evolv's core digital product targeting greater penetration across multiple client archetypes in the weapons detection industry.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Feature Development: Designed, programmed, and implemented 40+ feature additions to production[/item]\n[item]Major Feature Owner: Personally responsible for significant feature in the new release[/item]\n[item]Quality Assurance: Debugged and repaired testing pipeline for 7-member web team[/item]\n[item]Executive Presentations: Presented work outputs to company founder and CEO[/item]\n[/list]\n\n[h2]Technologies[/h2]\n[list]\n[item]JavaScript/TypeScript[/item]\n[item]HTML/CSS[/item]\n[item]Git Version Control[/item]\n[item]Testing Frameworks[/item]\n[item]CI/CD Pipeline Tools[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]40+ features shipped to production[/item]\n[item]Major feature ownership in new release[/item]\n[item]Enabled safe code deployment for entire team[/item]\n[item]Direct CEO-level communication and reporting[/item]\n[/list]\n\n[img]/projects/evolv.png[/img]\n",
+        "metadata": {
+          "title": "Evolv Digital Product Development",
+          "image": "/projects/evolv.png"
+        },
+        "parent": "projects",
+        "icon": "FileText"
+      },
+      {
+        "type": "file",
+        "name": "project_003.txt",
+        "path": "projects/project_003.txt",
+        "id": "project_003",
+        "label": "Tufts Gaming Hub Leadership",
+        "content": "---metadata---\ntitle: Tufts Gaming Hub Leadership\nimage: /projects/gaming-hub.png\n---end---\n\n[title]Tufts Gaming Hub Leadership[/title]\n\n[p][strong]Role:[/strong] President & Founder[/p]\n[p][strong]Organization:[/strong] Tufts Gaming Hub[/p]\n[p][strong]Duration:[/strong] 2022 - Present[/p]\n[p][strong]Community Size:[/strong] 1000+ Members[/p]\n\n[h2]Description[/h2]\n[p]Built and led one of Tufts University's largest student organizations, creating an inclusive gaming community focused on engagement, events, and community guidelines enforcement.[/p]\n\n[h2]Key Responsibilities[/h2]\n[list]\n[item]Community Management: Grew organization to 1000+ active members across multiple platforms[/item]\n[item]Social Media Strategy: Drove engagement through content creation and event marketing[/item]\n[item]Event Planning: Organized regular gaming events, tournaments, and social gatherings[/item]\n[item]Conflict Resolution: Handled community guideline infractions and maintained positive culture[/item]\n[item]Ethics & Standards: Established and enforced strong code of ethics for all members[/item]\n[/list]\n\n[h2]Skills Developed[/h2]\n[list]\n[item]Large-scale community leadership (1000+ people)[/item]\n[item]Social media marketing and engagement[/item]\n[item]Event planning and execution[/item]\n[item]Conflict resolution and mediation[/item]\n[item]Policy development and enforcement[/item]\n[item]Budget management[/item]\n[item]Stakeholder communication[/item]\n[/list]\n\n[h2]Impact[/h2]\n[list]\n[item]1000+ member community built from scratch[/item]\n[item]Regular high-engagement events[/item]\n[item]Strong ethical culture and guidelines[/item]\n[item]Positive reputation across campus[/item]\n[item]Sustainable leadership transition model[/item]\n[/list]\n\n[img]/projects/gaming-hub.png[/img]\n",
+        "metadata": {
+          "title": "Tufts Gaming Hub Leadership",
+          "image": "/projects/gaming-hub.png"
+        },
+        "parent": "projects",
+        "icon": "FileText"
+      },
+      {
+        "type": "folder",
+        "name": "skills",
+        "path": "skills",
+        "id": "skills",
+        "label": "Skills",
+        "children": [
+          {
+            "type": "file",
+            "name": "skills_business.txt",
+            "path": "skills/skills_business.txt",
+            "id": "skills_business",
+            "label": "Skills Business",
+            "content": "[title]Business Skills[/title]\n\n[h2]Business & Data Tools[/h2]\n[list]\n[item]Salesforce CRM (Advanced - 90%)[/item]\n[item]Excel - Advanced Analytics (Expert - 95%)[/item]\n[item]Atlassian Suite (Advanced - 85%)[/item]\n[item]PowerPoint - Executive Presentations (Advanced - 90%)[/item]\n[item]Word (Advanced - 90%)[/item]\n[/list]\n\n[h2]Soft Skills[/h2]\n[list]\n[item]Executive Communication (Expert - 95%)[/item]\n[item]Large Team Coordination (Advanced - 90%)[/item]\n[item]Public Speaking (Expert - 95%)[/item]\n[item]Leadership (Expert - 95%)[/item]\n[item]Problem Solving (Expert - 95%)[/item]\n[/list]\n\n[h2]Languages[/h2]\n[list]\n[item]English - Native (100%)[/item]\n[item]Italian - Proficient (90%)[/item]\n[item]Hindi - Basic (60%)[/item]\n[item]Mandarin - Elementary (40%)[/item]\n[/list]\n",
+            "metadata": {},
+            "parent": "skills",
+            "icon": "FileText"
+          },
+          {
+            "type": "file",
+            "name": "skills_consulting.txt",
+            "path": "skills/skills_consulting.txt",
+            "id": "skills_consulting",
+            "label": "Skills Consulting",
+            "content": "[title]Consulting Skills[/title]\n\n[h2]Executive Communication[/h2]\n[p]Expert at developing and delivering enablement materials for C-suite engagement. Experienced presenting to company founders and CEOs.[/p]\n\n[h2]Program Management[/h2]\n[p]Led cross-organizational initiatives at Dynatrace managing senior management teams and coordinating ~45 team members and vendors.[/p]\n\n[h2]Stakeholder Coordination[/h2]\n[p]Managed relationships for high-value accounts generating 100M+ annually. Strong track record in customer retention strategy.[/p]\n\n[h2]Leadership Experience[/h2]\n[list]\n[item]President of 1000+ member organization[/item]\n[item]Coordinated teams across multiple departments[/item]\n[item]Managed executive-level communications[/item]\n[item]Led transformation office initiatives[/item]\n[/list]\n",
+            "metadata": {},
+            "parent": "skills",
+            "icon": "FileText"
+          },
+          {
+            "type": "file",
+            "name": "skills_development.txt",
+            "path": "skills/skills_development.txt",
+            "id": "skills_development",
+            "label": "Skills Development",
+            "content": "[title]Development Skills[/title]\n\n[h2]Programming Languages[/h2]\n[list]\n[item]JavaScript/TypeScript (Expert - 95%)[/item]\n[item]Python (Advanced - 90%)[/item]\n[item]R (Advanced - 85%)[/item]\n[item]STATA (Advanced - 85%)[/item]\n[item]C++ (Intermediate - 75%)[/item]\n[item]C / C# (Intermediate - 70%)[/item]\n[item]Java (Intermediate - 70%)[/item]\n[/list]\n\n[h2]Web Technologies[/h2]\n[list]\n[item]React.js (Expert - 95%)[/item]\n[item]Next.js (Advanced - 90%)[/item]\n[item]Tailwind CSS (Expert - 95%)[/item]\n[item]HTML/CSS (Expert - 95%)[/item]\n[item]Git (Advanced - 90%)[/item]\n[/list]\n\n[h2]Experience Highlights[/h2]\n[list]\n[item]Shipped 40+ features to production at Evolv[/item]\n[item]Personally responsible for major feature in release[/item]\n[item]Debugged and repaired testing pipeline for team[/item]\n[item]CI/CD pipeline expertise[/item]\n[/list]\n",
+            "metadata": {},
+            "parent": "skills",
+            "icon": "FileText"
+          }
+        ],
+        "icon": "Folder",
+        "content": "[title]Technical Skills[/title]\n\n[p]Explore skills by category:[/p]\n\n[h2]Consulting Skills[/h2]\n[p]Executive communication, stakeholder management, program leadership[/p]\n\n[h2]Development Skills[/h2]\n[p]JavaScript/TypeScript, React, Python, Full-stack development[/p]\n\n[h2]Business Skills[/h2]\n[p]Salesforce, Excel (Advanced), Data analysis, Project management[/p]\n\n[p]Navigate using arrow keys or the navigation menu to explore each category in detail.[/p]\n",
+        "metadata": {}
+      },
+      {
+        "type": "file",
+        "name": "skills_business.txt",
+        "path": "skills/skills_business.txt",
+        "id": "skills_business",
+        "label": "Skills Business",
+        "content": "[title]Business Skills[/title]\n\n[h2]Business & Data Tools[/h2]\n[list]\n[item]Salesforce CRM (Advanced - 90%)[/item]\n[item]Excel - Advanced Analytics (Expert - 95%)[/item]\n[item]Atlassian Suite (Advanced - 85%)[/item]\n[item]PowerPoint - Executive Presentations (Advanced - 90%)[/item]\n[item]Word (Advanced - 90%)[/item]\n[/list]\n\n[h2]Soft Skills[/h2]\n[list]\n[item]Executive Communication (Expert - 95%)[/item]\n[item]Large Team Coordination (Advanced - 90%)[/item]\n[item]Public Speaking (Expert - 95%)[/item]\n[item]Leadership (Expert - 95%)[/item]\n[item]Problem Solving (Expert - 95%)[/item]\n[/list]\n\n[h2]Languages[/h2]\n[list]\n[item]English - Native (100%)[/item]\n[item]Italian - Proficient (90%)[/item]\n[item]Hindi - Basic (60%)[/item]\n[item]Mandarin - Elementary (40%)[/item]\n[/list]\n",
+        "metadata": {},
+        "parent": "skills",
+        "icon": "FileText"
+      },
+      {
+        "type": "file",
+        "name": "skills_consulting.txt",
+        "path": "skills/skills_consulting.txt",
+        "id": "skills_consulting",
+        "label": "Skills Consulting",
+        "content": "[title]Consulting Skills[/title]\n\n[h2]Executive Communication[/h2]\n[p]Expert at developing and delivering enablement materials for C-suite engagement. Experienced presenting to company founders and CEOs.[/p]\n\n[h2]Program Management[/h2]\n[p]Led cross-organizational initiatives at Dynatrace managing senior management teams and coordinating ~45 team members and vendors.[/p]\n\n[h2]Stakeholder Coordination[/h2]\n[p]Managed relationships for high-value accounts generating 100M+ annually. Strong track record in customer retention strategy.[/p]\n\n[h2]Leadership Experience[/h2]\n[list]\n[item]President of 1000+ member organization[/item]\n[item]Coordinated teams across multiple departments[/item]\n[item]Managed executive-level communications[/item]\n[item]Led transformation office initiatives[/item]\n[/list]\n",
+        "metadata": {},
+        "parent": "skills",
+        "icon": "FileText"
+      },
+      {
+        "type": "file",
+        "name": "skills_development.txt",
+        "path": "skills/skills_development.txt",
+        "id": "skills_development",
+        "label": "Skills Development",
+        "content": "[title]Development Skills[/title]\n\n[h2]Programming Languages[/h2]\n[list]\n[item]JavaScript/TypeScript (Expert - 95%)[/item]\n[item]Python (Advanced - 90%)[/item]\n[item]R (Advanced - 85%)[/item]\n[item]STATA (Advanced - 85%)[/item]\n[item]C++ (Intermediate - 75%)[/item]\n[item]C / C# (Intermediate - 70%)[/item]\n[item]Java (Intermediate - 70%)[/item]\n[/list]\n\n[h2]Web Technologies[/h2]\n[list]\n[item]React.js (Expert - 95%)[/item]\n[item]Next.js (Advanced - 90%)[/item]\n[item]Tailwind CSS (Expert - 95%)[/item]\n[item]HTML/CSS (Expert - 95%)[/item]\n[item]Git (Advanced - 90%)[/item]\n[/list]\n\n[h2]Experience Highlights[/h2]\n[list]\n[item]Shipped 40+ features to production at Evolv[/item]\n[item]Personally responsible for major feature in release[/item]\n[item]Debugged and repaired testing pipeline for team[/item]\n[item]CI/CD pipeline expertise[/item]\n[/list]\n",
+        "metadata": {},
+        "parent": "skills",
+        "icon": "FileText"
+      }
+    ]
+  },
+  "tileGrid": {
+    "tiles": {
+      "about": {
+        "id": "about",
+        "label": "About",
+        "coords": {
+          "x": 0,
+          "y": 0
+        },
+        "neighbors": {
+          "right": "contact"
+        },
+        "hasContent": true
+      },
+      "contact": {
+        "id": "contact",
+        "label": "Contact",
+        "coords": {
+          "x": 1,
+          "y": 0
+        },
+        "neighbors": {
+          "left": "about",
+          "right": "education"
+        },
+        "hasContent": true
+      },
+      "education": {
+        "id": "education",
+        "label": "Education",
+        "coords": {
+          "x": 2,
+          "y": 0
+        },
+        "neighbors": {
+          "left": "contact",
+          "right": "experience"
+        },
+        "hasContent": true
+      },
+      "experience": {
+        "id": "experience",
+        "label": "Experience",
+        "coords": {
+          "x": 3,
+          "y": 0
+        },
+        "neighbors": {
+          "left": "education",
+          "right": "projects"
+        },
+        "hasContent": true
+      },
+      "projects": {
+        "id": "projects",
+        "label": "Projects",
+        "coords": {
+          "x": 4,
+          "y": 0
+        },
+        "neighbors": {
+          "left": "experience",
+          "right": "skills",
+          "down": "project_001"
+        },
+        "hasContent": true
+      },
+      "project_001": {
+        "id": "project_001",
+        "label": "Dynatrace Executive Sponsor Program",
+        "coords": {
+          "x": 4,
+          "y": 1
+        },
+        "neighbors": {
+          "right": "skills_business",
+          "up": "projects",
+          "down": "project_002"
+        },
+        "category": "projects",
+        "hasContent": true
+      },
+      "project_002": {
+        "id": "project_002",
+        "label": "Evolv Digital Product Development",
+        "coords": {
+          "x": 4,
+          "y": 2
+        },
+        "neighbors": {
+          "right": "skills_consulting",
+          "up": "project_001",
+          "down": "project_003"
+        },
+        "category": "projects",
+        "hasContent": true
+      },
+      "project_003": {
+        "id": "project_003",
+        "label": "Tufts Gaming Hub Leadership",
+        "coords": {
+          "x": 4,
+          "y": 3
+        },
+        "neighbors": {
+          "right": "skills_development",
+          "up": "project_002"
+        },
+        "category": "projects",
+        "hasContent": true
+      },
+      "skills": {
+        "id": "skills",
+        "label": "Skills",
+        "coords": {
+          "x": 5,
+          "y": 0
+        },
+        "neighbors": {
+          "left": "projects",
+          "down": "skills_business"
+        },
+        "hasContent": true
+      },
+      "skills_business": {
+        "id": "skills_business",
+        "label": "Skills Business",
+        "coords": {
+          "x": 5,
+          "y": 1
+        },
+        "neighbors": {
+          "left": "project_001",
+          "up": "skills",
+          "down": "skills_consulting"
+        },
+        "category": "skills",
+        "hasContent": true
+      },
+      "skills_consulting": {
+        "id": "skills_consulting",
+        "label": "Skills Consulting",
+        "coords": {
+          "x": 5,
+          "y": 2
+        },
+        "neighbors": {
+          "left": "project_002",
+          "up": "skills_business",
+          "down": "skills_development"
+        },
+        "category": "skills",
+        "hasContent": true
+      },
+      "skills_development": {
+        "id": "skills_development",
+        "label": "Skills Development",
+        "coords": {
+          "x": 5,
+          "y": 3
+        },
+        "neighbors": {
+          "left": "project_003",
+          "up": "skills_consulting"
+        },
+        "category": "skills",
+        "hasContent": true
+      }
+    },
+    "width": 6,
+    "height": 4
+  },
+  "navStructure": [
+    {
+      "id": "about",
+      "label": "About",
+      "path": "about.txt"
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "path": "contact.txt"
+    },
+    {
+      "id": "education",
+      "label": "Education",
+      "path": "education.txt"
+    },
+    {
+      "id": "experience",
+      "label": "Experience",
+      "path": "experience.txt"
+    },
+    {
+      "id": "projects",
+      "label": "Projects",
+      "path": "projects",
+      "children": [
+        {
+          "id": "project_001",
+          "label": "Dynatrace Executive Sponsor Program",
+          "path": "projects/project_001.txt"
+        },
+        {
+          "id": "project_002",
+          "label": "Evolv Digital Product Development",
+          "path": "projects/project_002.txt"
+        },
+        {
+          "id": "project_003",
+          "label": "Tufts Gaming Hub Leadership",
+          "path": "projects/project_003.txt"
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "label": "Skills",
+      "path": "skills",
+      "children": [
+        {
+          "id": "skills_business",
+          "label": "Skills Business",
+          "path": "skills/skills_business.txt"
+        },
+        {
+          "id": "skills_consulting",
+          "label": "Skills Consulting",
+          "path": "skills/skills_consulting.txt"
+        },
+        {
+          "id": "skills_development",
+          "label": "Skills Development",
+          "path": "skills/skills_development.txt"
+        }
+      ]
+    }
+  ]
+}

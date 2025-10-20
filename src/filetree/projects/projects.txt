@@ -1,0 +1,14 @@
+[title]Projects[/title]
+
+[p]Select a project to view details:[/p]
+
+[h2]1. Dynatrace Executive Sponsor Program[/h2]
+[p]Transformation Office Intern | June 2024 - September 2024[/p]
+
+[h2]2. Evolv Digital Product Development[/h2]
+[p]Digital Product Developer Intern | June 2022 - August 2022[/p]
+
+[h2]3. Tufts Gaming Hub Leadership[/h2]
+[p]President & Founder | 2022 - Present | 1000+ Members[/p]
+
+[p]Navigate using arrow keys or the navigation menu to explore each project in detail.[/p]

@@ -1,0 +1,40 @@
+---metadata---
+title: Evolv Digital Product Development
+image: /projects/evolv.png
+---end---
+
+[title]Evolv Digital Product Development[/title]
+
+[p][strong]Role:[/strong] Digital Product Developer Intern[/p]
+[p][strong]Company:[/strong] Evolv Technology (NYSE: EVLV)[/p]
+[p][strong]Duration:[/strong] June 2022 - August 2022[/p]
+
+[h2]Description[/h2]
+[p]Contributed to new version release of Evolv's core digital product targeting greater penetration across multiple client archetypes in the weapons detection industry.[/p]
+
+[h2]Key Responsibilities[/h2]
+[list]
+[item]Feature Development: Designed, programmed, and implemented 40+ feature additions to production[/item]
+[item]Major Feature Owner: Personally responsible for significant feature in the new release[/item]
+[item]Quality Assurance: Debugged and repaired testing pipeline for 7-member web team[/item]
+[item]Executive Presentations: Presented work outputs to company founder and CEO[/item]
+[/list]
+
+[h2]Technologies[/h2]
+[list]
+[item]JavaScript/TypeScript[/item]
+[item]HTML/CSS[/item]
+[item]Git Version Control[/item]
+[item]Testing Frameworks[/item]
+[item]CI/CD Pipeline Tools[/item]
+[/list]
+
+[h2]Impact[/h2]
+[list]
+[item]40+ features shipped to production[/item]
+[item]Major feature ownership in new release[/item]
+[item]Enabled safe code deployment for entire team[/item]
+[item]Direct CEO-level communication and reporting[/item]
+[/list]
+
+[img]/projects/evolv.png[/img]

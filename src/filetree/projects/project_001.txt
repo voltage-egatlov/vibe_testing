@@ -1,0 +1,39 @@
+---metadata---
+title: Dynatrace Executive Sponsor Program
+image: /projects/dynatrace.png
+---end---
+
+[title]Dynatrace Executive Sponsor Program[/title]
+
+[p][strong]Role:[/strong] Transformation Office Intern[/p]
+[p][strong]Company:[/strong] Dynatrace (NYSE: DT)[/p]
+[p][strong]Duration:[/strong] June 2024 - September 2024[/p]
+
+[h2]Description[/h2]
+[p]Led enablement initiative for high-value accounts generating 100M+ in annual revenue to drive customer retention through executive sponsorship.[/p]
+
+[h2]Key Responsibilities[/h2]
+[list]
+[item]Program Management: Organized core team of senior management across all Dynatrace organizations[/item]
+[item]Executive Communications: Developed and delivered enablement materials for C-suite engagement[/item]
+[item]Stakeholder Coordination: Managed relationships between ~45 internal team members and vendors[/item]
+[item]Performance Tracking: Monitored program metrics and customer retention indicators[/item]
+[/list]
+
+[h2]Technologies[/h2]
+[list]
+[item]Salesforce CRM[/item]
+[item]Excel (Advanced Analytics)[/item]
+[item]PowerPoint (Executive Presentations)[/item]
+[item]Atlassian Suite (Project Management)[/item]
+[/list]
+
+[h2]Impact[/h2]
+[list]
+[item]Managed accounts worth 100M+ annually[/item]
+[item]Coordinated cross-organizational teams[/item]
+[item]Improved executive-level customer engagement[/item]
+[item]Enhanced customer retention strategy[/item]
+[/list]
+
+[img]/projects/dynatrace.png[/img]

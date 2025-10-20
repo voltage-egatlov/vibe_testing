@@ -1,0 +1,45 @@
+---metadata---
+title: Tufts Gaming Hub Leadership
+image: /projects/gaming-hub.png
+---end---
+
+[title]Tufts Gaming Hub Leadership[/title]
+
+[p][strong]Role:[/strong] President & Founder[/p]
+[p][strong]Organization:[/strong] Tufts Gaming Hub[/p]
+[p][strong]Duration:[/strong] 2022 - Present[/p]
+[p][strong]Community Size:[/strong] 1000+ Members[/p]
+
+[h2]Description[/h2]
+[p]Built and led one of Tufts University's largest student organizations, creating an inclusive gaming community focused on engagement, events, and community guidelines enforcement.[/p]
+
+[h2]Key Responsibilities[/h2]
+[list]
+[item]Community Management: Grew organization to 1000+ active members across multiple platforms[/item]
+[item]Social Media Strategy: Drove engagement through content creation and event marketing[/item]
+[item]Event Planning: Organized regular gaming events, tournaments, and social gatherings[/item]
+[item]Conflict Resolution: Handled community guideline infractions and maintained positive culture[/item]
+[item]Ethics & Standards: Established and enforced strong code of ethics for all members[/item]
+[/list]
+
+[h2]Skills Developed[/h2]
+[list]
+[item]Large-scale community leadership (1000+ people)[/item]
+[item]Social media marketing and engagement[/item]
+[item]Event planning and execution[/item]
+[item]Conflict resolution and mediation[/item]
+[item]Policy development and enforcement[/item]
+[item]Budget management[/item]
+[item]Stakeholder communication[/item]
+[/list]
+
+[h2]Impact[/h2]
+[list]
+[item]1000+ member community built from scratch[/item]
+[item]Regular high-engagement events[/item]
+[item]Strong ethical culture and guidelines[/item]
+[item]Positive reputation across campus[/item]
+[item]Sustainable leadership transition model[/item]
+[/list]
+
+[img]/projects/gaming-hub.png[/img]

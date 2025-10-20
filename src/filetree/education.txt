@@ -1,0 +1,42 @@
+[title]Education[/title]
+
+[h2]Tufts University[/h2]
+[p][strong]Location:[/strong] Medford, MA | [strong]Years:[/strong] 2021 - 2025[/p]
+
+[p][strong]Degrees:[/strong][/p]
+[list]
+[item]BS Human Factors Engineering[/item]
+[item]BA Economics[/item]
+[/list]
+
+[p][strong]Academic Achievement:[/strong][/p]
+[list]
+[item]GPA: 3.79 / 4.0[/item]
+[item]Dean's List: All semesters[/item]
+[item]SAT: Math 800 | English 720[/item]
+[/list]
+
+[p][strong]Campus Leadership:[/strong][/p]
+[list]
+[item]President, Tufts Gaming Hub (~1000 Members)[/item]
+[item]Director, Cheap Sox Improv[/item]
+[item]Member, Tufts Climbing Team[/item]
+[/list]
+
+[h2]Lexington High School[/h2]
+[p][strong]Location:[/strong] Lexington, MA | [strong]Years:[/strong] 2017 - 2021[/p]
+[p]Ranked Top 50 Public High Schools in US[/p]
+
+[p][strong]Leadership Positions:[/strong][/p]
+[list]
+[item]President, Model United Nations Club[/item]
+[item]President, Digital Imaging and Design Club[/item]
+[item]President, Magic Club[/item]
+[/list]
+
+[p][strong]Community Service:[/strong][/p]
+[list]
+[item]Head of Library Leadership Council - Cary Memorial Library (2014-2021)[/item]
+[item]Elected leader of teen volunteer group[/item]
+[item]Responsible for planning, marketing, and executing community events[/item]
+[/list]

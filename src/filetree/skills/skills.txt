@@ -1,0 +1,14 @@
+[title]Technical Skills[/title]
+
+[p]Explore skills by category:[/p]
+
+[h2]Consulting Skills[/h2]
+[p]Executive communication, stakeholder management, program leadership[/p]
+
+[h2]Development Skills[/h2]
+[p]JavaScript/TypeScript, React, Python, Full-stack development[/p]
+
+[h2]Business Skills[/h2]
+[p]Salesforce, Excel (Advanced), Data analysis, Project management[/p]
+
+[p]Navigate using arrow keys or the navigation menu to explore each category in detail.[/p]

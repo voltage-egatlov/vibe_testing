@@ -1,0 +1,18 @@
+[title]Consulting Skills[/title]
+
+[h2]Executive Communication[/h2]
+[p]Expert at developing and delivering enablement materials for C-suite engagement. Experienced presenting to company founders and CEOs.[/p]
+
+[h2]Program Management[/h2]
+[p]Led cross-organizational initiatives at Dynatrace managing senior management teams and coordinating ~45 team members and vendors.[/p]
+
+[h2]Stakeholder Coordination[/h2]
+[p]Managed relationships for high-value accounts generating 100M+ annually. Strong track record in customer retention strategy.[/p]
+
+[h2]Leadership Experience[/h2]
+[list]
+[item]President of 1000+ member organization[/item]
+[item]Coordinated teams across multiple departments[/item]
+[item]Managed executive-level communications[/item]
+[item]Led transformation office initiatives[/item]
+[/list]
