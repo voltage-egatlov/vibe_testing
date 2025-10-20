@@ -1,18 +1,19 @@
 # Tej's Portfolio Website
 
-A unique retro-futuristic portfolio website featuring a CRT terminal aesthetic with modern, responsive design. Built with Next.js 15, React 19, and Tailwind CSS 4.
+A modern, minimalist portfolio website featuring an innovative spatial tile-based navigation system. Built with Next.js 15, React 19, and Tailwind CSS 4.
 
 ## Purpose
 
-This portfolio website showcases my projects, experience, and skills through an interactive terminal-inspired interface. The design combines nostalgic CRT aesthetics (phosphor green text, scanlines, screen glow) with modern web technologies to create a memorable browsing experience.
+This portfolio website showcases my projects, experience, and skills through an interactive tile grid interface. The design emphasizes clean aesthetics and intuitive navigation, creating a unique and memorable browsing experience.
 
 **Key Features:**
-- Retro CRT terminal visual effects (scanlines, glow, vignette, flicker)
-- Dual-view architecture: Spatial tile grid navigation + mobile-optimized view
-- File tree navigation system with expandable sections
-- Full-color image support within CRT-styled containers
-- Keyboard navigation (arrow keys) and click-based interaction
-- Responsive design that adapts from desktop to mobile seamlessly
+- Spatial tile grid navigation system (6x4 grid layout)
+- Keyboard navigation with arrow keys
+- Smooth transitions between sections
+- Expandable dropdown navigation menus
+- Mobile-optimized responsive design
+- Full-color project images with elegant presentation
+- Zoom in/out functionality to view entire portfolio at a glance
 
 ## Methodology
 
@@ -29,13 +30,13 @@ The project follows modern React best practices with a focus on performance and 
 - File-based content system stored in `/src/filetree/`
 - Build-time static generation via Node.js script
 - Custom markdown-like tag parsing for rich content ([title], [h1], [h2], [img])
-- Spatial grid layout with navigable tile system (6x4 grid)
+- Spatial grid layout with navigable tile system
 
 ### Styling
 - Tailwind CSS 4 for utility-first styling
-- Custom CSS effects for authentic CRT simulation
-- VT323 monospace font from Google Fonts
-- Consistent color palette (phosphor green, amber, cyan)
+- Custom CSS for smooth animations and transitions
+- Modern, minimalist design aesthetic
+- Responsive layouts that adapt seamlessly across devices
 
 ## Tech Stack
 
@@ -94,7 +95,7 @@ src/
 ├── app/                    # Next.js app directory
 │   ├── layout.tsx         # Root layout with metadata
 │   ├── page.tsx           # Homepage
-│   └── globals.css        # Global styles + CRT effects
+│   └── globals.css        # Global styles
 ├── components/
 │   ├── common/            # Reusable components
 │   ├── content/           # Content display components
@@ -115,7 +116,7 @@ src/
 See [CLAUDE.md](./CLAUDE.md) for detailed customization instructions, including:
 - Adding new pages/sections
 - Modifying content
-- Adjusting CRT visual effects
+- Adjusting visual effects
 - Adding images
 
 ## Credits
@@ -135,4 +136,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ and a love for retro computing aesthetics.
+Built with ❤️ and modern web technologies.
