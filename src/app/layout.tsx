@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Terminal Portfolio",
+  title: "Tej's Website",
   description: "Retro CRT-style terminal portfolio interface",
 };
 
